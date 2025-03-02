@@ -1,0 +1,55 @@
+name: mikrotik-homelab
+mgmt:
+  network: homelab
+  ipv4-subnet: 172.100.100.0/24
+
+topology:
+  kinds:
+    mikrotik_ros:
+      image: initnetworks/clab_images:ros-7.17rc1
+      # image:  docker.io/iparchitechs/chr:stable
+    linux:
+      image: praqma/network-multitool
+
+  nodes:
+    # Routers
+    mtr254:
+      kind: mikrotik_ros
+      startup-config: config/mtr254.cfg
+      mgmt-ipv4: 172.100.100.254
+    mtr253:
+      kind: mikrotik_ros
+      startup-config: config/mtr253.cfg
+      mgmt-ipv4: 172.100.100.253
+    mtr252:
+      kind: mikrotik_ros
+      startup-config: config/mtr252.cfg
+      mgmt-ipv4: 172.100.100.252
+
+    # PC
+    pc254-lan: # VLAN LAN
+      kind: linux
+      image: praqma/network-multitool
+      mgmt-ipv4: 172.100.100.4
+      exec:
+       - ip addr add 172.100.254.4/24 dev eth1
+       - ip route del default
+       - ip route add default via 172.100.254.254
+    pc252-lan: # VLAN LAN
+      kind: linux
+      image: praqma/network-multitool
+      mgmt-ipv4: 172.100.100.2
+      exec:
+       - ip addr add 172.100.254.2/24 dev eth1
+       - ip route del default
+       - ip route add default via 172.100.254.254
+
+  links:
+        # ethx == mikrotik:etherx+1 => managment interface
+        - endpoints: ["mtr254:eth1","mgmt-net:internet-mtr254-eth1"] # mrt254:ether2 <-> mgmt
+        - endpoints: ["mtr254:eth2","mtr253:eth1"]                   # mrt254:ether3 <-> mrt253:ether2
+        - endpoints: ["mtr254:eth3","mtr252:eth1"]                   # mrt254:ether4 <-> mrt252:ether2
+
+        - endpoints: ["pc254-lan:eth1", "mtr254:eth4"]               # pc254-lan:eth1 <-> mtr254:ether5
+        - endpoints: ["pc252-lan:eth1", "mtr252:eth2"]               # pc252-lan:eth1 <-> mtr252:ether3
+
