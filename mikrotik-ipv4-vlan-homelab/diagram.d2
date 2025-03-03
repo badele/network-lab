@@ -18,59 +18,44 @@ title: homelab network {
 internet: internet
 internet.shape: cloud
 
-# vlan-adm
-
-mtr254: {
-  eth01
-  eth02
-  eth03
-  eth04
-}
-
-mtr253: {
-  eth02
-  eth03
-  eth04
-  eth05
-  eth09
-  eth10
-}
-
-mtr252: {
-  eth02
-  eth03
-  eth04
-  eth05
-}
+# Routers
+mtr254
+mtr253
+mtr252
 
 # mtr254
-internet -- mtr254.eth01 -- mtr254.bridge: {style.stroke: red}
-mtr254.bridge -- mtr254.eth02: tagged VLAN WAR(2) {style.stroke: red}
-mtr254.bridge -- mtr254.eth02: tagged VLAN DMZ(32) {style.stroke: orange}
-mtr254.bridge -- mtr254.eth02: tagged VLAN ADM(240) {style.stroke: purple}
-mtr254.bridge -- mtr254.eth02: tagged VLAN LAN(254) {style.stroke: green}
-
-mtr254.bridge -- mtr254.eth03: tagged VLAN WAR(2) {style.stroke: red}
+internet -- mtr254.eth02 -- mtr254.bridge: {style.stroke: red}
 mtr254.bridge -- mtr254.eth03: tagged VLAN DMZ(32) {style.stroke: orange}
 mtr254.bridge -- mtr254.eth03: tagged VLAN ADM(240) {style.stroke: purple}
 mtr254.bridge -- mtr254.eth03: tagged VLAN LAN(254) {style.stroke: green}
+mtr254.bridge -- mtr254.eth05: tagged VLAN DMZ(32) {style.stroke: orange}
+mtr254.bridge -- mtr254.eth06: tagged VLAN ADM(240) {style.stroke: purple}
+mtr254.bridge -- mtr254.eth07: tagged VLAN LAN(254) {style.stroke: green}
 
-mtr254.bridge -- mtr254.eth04: LAN {style.stroke: green}
-mtr254.eth02 -- mtr253.eth02: Trunk: {style.stroke-width: 8}
-mtr254.eth03 -- mtr252.eth02: Trunk: {style.stroke-width: 8}
+mtr254.bridge -- mtr254.eth04: tagged VLAN DMZ(32) {style.stroke: orange}
+mtr254.bridge -- mtr254.eth04: tagged VLAN ADM(240) {style.stroke: purple}
+mtr254.bridge -- mtr254.eth04: tagged VLAN LAN(254) {style.stroke: green}
+
+mtr254.eth03 -- mtr253.eth02: Trunk: {style.stroke-width: 8}
+mtr254.eth04 -- mtr252.eth02: Trunk: {style.stroke-width: 8}
+mtr254.eth05 -- pc254-dmz: DMZ {style.stroke: orange}
+mtr254.eth06 -- pc254-adm: ADM {style.stroke: purple}
+mtr254.eth07 -- pc254-lan: LAN {style.stroke: green}
 
 # mtr253
-mtr253.eth02 -- mtr253.router: Trunk: {style.stroke-width: 8}
-mtr253.router -- mtr253.eth03: LAN {style.stroke: green}
-mtr253.router -- mtr253.eth05: LAN {style.stroke: green}
-mtr253.router -- mtr253.eth09: tagged VLAN DMZ(32) {style.stroke: orange}
-mtr253.router -- mtr253.eth09: tagged VLAN ADM(240) {style.stroke: purple}
-mtr253.eth03 -- laptop: LAN {style.stroke: green}
-mtr253.eth05 -- philips hue: LAN {style.stroke: green}
-mtr253.eth09 -- hype16: Trunk: {style.stroke-width: 8}
+mtr253.eth02 -- mtr253.bridge: Trunk: {style.stroke-width: 8}
+mtr253.bridge -- mtr253.eth03: tagged VLAN DMZ(32) {style.stroke: orange}
+mtr253.bridge -- mtr253.eth04: tagged VLAN ADM(240) {style.stroke: purple}
+mtr253.bridge -- mtr253.eth05: tagged VLAN LAN(254) {style.stroke: green}
+mtr253.eth03 -- pc253-dmz: DMZ {style.stroke: orange}
+mtr253.eth04 -- pc253-adm: ADM {style.stroke: purple}
+mtr253.eth05 -- pc253-lan: LAN {style.stroke: green}
 
 # mtr252
-mtr252.eth02 -- mtr252.router: Trunk: {style.stroke-width: 8}
-mtr252.router -- mtr252.eth03: LAN {style.stroke: green}
-mtr252.router -- mtr252.eth04: LAN {style.stroke: green}
-mtr252.router -- mtr252.eth05: LAN {style.stroke: green}
+mtr252.eth02 -- mtr252.bridge: Trunk: {style.stroke-width: 8}
+mtr252.bridge -- mtr252.eth03: tagged VLAN DMZ(32) {style.stroke: orange}
+mtr252.bridge -- mtr252.eth04: tagged VLAN ADM(240) {style.stroke: purple}
+mtr252.bridge -- mtr252.eth05: tagged VLAN LAN(254) {style.stroke: green}
+mtr252.eth03 -- pc252-dmz: DMZ {style.stroke: orange}
+mtr252.eth04 -- pc252-adm: ADM {style.stroke: purple}
+mtr252.eth05 -- pc252-lan: LAN {style.stroke: green}

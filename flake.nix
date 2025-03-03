@@ -9,7 +9,7 @@
       in {
         devShells.default = with pkgs;
           mkShell {
-            packages = [ containerlab d2 just ];
+            packages = [ bats containerlab d2 just ];
             shellHook = ''
               export PROJ="Network lab"
 

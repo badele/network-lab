@@ -8,30 +8,31 @@ to be isolated across three different networks.
 This configuration is used in my
 [NixOS homelab](https://github.com/badele/nix-homelab).
 
+## Inventory
+
+| Number | Description      |
+| ------ | ---------------- |
+| 3      | MikroTik routers |
+| 3      | VLANs            |
+| 9      | PCs              |
+
+**Details**
+
 - **DMZ (32)**
 - **ADM (240)**
 - **LAN (254)**
 
-| Name   | Address         | Description            |
-| ------ | --------------- | ---------------------- |
-| mtr254 | 172.100.100.254 | Main router            |
-|        | 172.100.32.254  | Main router DMZ VLAN   |
-|        | 172.100.240.254 | Main router ADM VLAN   |
-|        | 172.100.254.254 | Main router LAN VLAN   |
-| mtr253 | 172.100.100.253 | Second router          |
-|        | 172.100.32.253  | Second router DMZ VLAN |
-|        | 172.100.240.253 | Second router ADM VLAN |
-|        | 172.100.254.253 | Second router LAN VLAN |
-| mtr252 | 172.100.100.252 | Third router           |
-|        | 172.100.32.252  | Third router DMZ VLAN  |
-|        | 172.100.240.252 | Third router ADM VLAN  |
-|        | 172.100.254.252 | Third router LAN VLAN  |
-| pc254  | 172.100.32.4    | PC 254 on DMZ          |
-|        | 172.100.240.4   | PC 254 on ADM          |
-|        | 172.100.254.4   | PC 254 on LAN          |
-| pc252  | 172.100.32.2    | PC 252 on DMZ          |
-|        | 172.100.240.2   | PC 252 on ADM          |
-|        | 172.100.254.2   | PC 252 on LAN          |
+|   Type   |  Name  | Description         | Identifier                                                                                                    |
+| :------: | :----: | ------------------- | ------------------------------------------------------------------------------------------------------------- |
+|   vlan   |  DMZ   | Demilitarized zone  | `32`                                                                                                          |
+|   vlan   |  ADM   | Administrative zone | `240`                                                                                                         |
+|   vlan   |  LAN   | Local network zone  | `254`                                                                                                         |
+|  router  | mtr254 | Main router         | `172.100.100.254`(MGMT)</br>`172.100.32.254`(DMZ)</br>`172.100.240.254`(ADM)</br>`172.100.254.254`(LAN)       |
+|  router  | mtr253 | Second router       | `172.100.100.254`(MGMT)</br>`172.100.32.254`(DMZ)</br>`172.100.240.254`(ADM)</br>`172.100.254.254`(LAN)       |
+|  router  | mtr252 | Third router        | `172.100.100.254`(MGMT)</br>`172.100.32.254`(DMZ)</br>`172.100.240.254`(ADM)</br>`172.100.254.254`(LAN)       |
+| computer | pc254  | Test computer       | `docker -it exec <container>`(MGMT)</br>`172.100.32.4`(DMZ)</br>`172.100.240.4`(ADM)</br>`172.100.254.4`(LAN) |
+| computer | pc253  | Test computer       | `docker -it exec <container>`(MGMT)</br>`172.100.32.3`(DMZ)</br>`172.100.240.3`(ADM)</br>`172.100.254.3`(LAN) |
+| computer | pc252  | Test computer       | `docker -it exec <container>`(MGMT)</br>`172.100.32.2`(DMZ)</br>`172.100.240.2`(ADM)</br>`172.100.254.2`(LAN) |
 
 ---
 
@@ -47,17 +48,9 @@ This configuration is used in my
 cd mikrotik-ipv4-vlan-homelab
 just deploy
 
-# Test LAN between two PCs
-docker exec -it clab-mikrotik-homelab-pc252-lan ping -c3 172.100.254.4
-docker exec -it clab-mikrotik-homelab-pc254-lan ping -c3 172.100.254.2
-
-# Test ADM between two PCs
-docker exec -it clab-mikrotik-homelab-pc252-adm ping -c3 172.100.240.4
-docker exec -it clab-mikrotik-homelab-pc254-adm ping -c3 172.100.240.2
-
-# Test DMZ between two PCs
-docker exec -it clab-mikrotik-homelab-pc252-dmz ping -c3 172.100.32.4
-docker exec -it clab-mikrotik-homelab-pc254-dmz ping -c3 172.100.32.2
+# wait 1 minute
+just test
+just diagram
 
 # Connect to router
 ssh admin@172.100.100.254 # .253 or .252 (pass admin/admin)

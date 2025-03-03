@@ -22,14 +22,25 @@ Creating a lab is simple:
 2. Deploy the lab with the following command:
    ```bash
    just deploy
+   # Wait 1 minute before going to next step
    ```
-3. Document your lab in a D2 file:
+3. Test your lab if it run correctely:
+   ```bash
+   just test
+   ```
+4. Show the network wires with [edgeshark](https://github.com/siemens/edgeshark)
+   ```bash
+   just edgeshark-start
+   just edgeshark-open
+   just edgeshark-stop
+   ```
+5. Document your lab in a D2 file:
    ```bash
    just diagram
    ```
 
 ## Labs
 
-| Name                                                        | Description                 | Tags                 |
-| ----------------------------------------------------------- | --------------------------- | -------------------- |
-| [mikrotik-ipv4-vlan-homelab](./mikrotik-ipv4-vlan-homelab/) | 3 VLANs on Mikrotik routers | ipv4, vlan, mikrotik |
+| Name                                                                     | Description                 | Tags                 |
+| ------------------------------------------------------------------------ | --------------------------- | -------------------- |
+| [2024-11-18 - mikrotik-ipv4-vlan-homelab](./mikrotik-ipv4-vlan-homelab/) | 3 VLANs on Mikrotik routers | ipv4, vlan, mikrotik |

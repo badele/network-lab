@@ -26,19 +26,70 @@ topology:
       startup-config: config/mtr252.cfg
       mgmt-ipv4: 172.100.100.252
 
-    # PC
+    # PC 254
+    pc254-dmz: # VLAN DMZ
+      kind: linux
+      image: praqma/network-multitool
+      exec:
+       - ip addr add 172.100.32.4/24 dev eth1
+       - ip route del default
+       - ip route add default via 172.100.32.254
+    pc254-adm: # VLAN ADM
+      kind: linux
+      image: praqma/network-multitool
+      exec:
+       - ip addr add 172.100.240.4/24 dev eth1
+       - ip route del default
+       - ip route add default via 172.100.240.254
     pc254-lan: # VLAN LAN
       kind: linux
       image: praqma/network-multitool
-      mgmt-ipv4: 172.100.100.4
       exec:
        - ip addr add 172.100.254.4/24 dev eth1
        - ip route del default
        - ip route add default via 172.100.254.254
+
+    # PC 253
+    pc253-dmz: # VLAN DMZ
+      kind: linux
+      image: praqma/network-multitool
+      exec:
+       - ip addr add 172.100.32.3/24 dev eth1
+       - ip route del default
+       - ip route add default via 172.100.32.254
+    pc253-adm: # VLAN ADM
+      kind: linux
+      image: praqma/network-multitool
+      exec:
+       - ip addr add 172.100.240.3/24 dev eth1
+       - ip route del default
+       - ip route add default via 172.100.240.254
+    pc253-lan: # VLAN LAN
+      kind: linux
+      image: praqma/network-multitool
+      exec:
+       - ip addr add 172.100.254.3/24 dev eth1
+       - ip route del default
+       - ip route add default via 172.100.254.254
+
+    # PC 252
+    pc252-dmz: # VLAN DMZ
+      kind: linux
+      image: praqma/network-multitool
+      exec:
+       - ip addr add 172.100.32.2/24 dev eth1
+       - ip route del default
+       - ip route add default via 172.100.32.254
+    pc252-adm: # VLAN ADM
+      kind: linux
+      image: praqma/network-multitool
+      exec:
+       - ip addr add 172.100.240.2/24 dev eth1
+       - ip route del default
+       - ip route add default via 172.100.240.254
     pc252-lan: # VLAN LAN
       kind: linux
       image: praqma/network-multitool
-      mgmt-ipv4: 172.100.100.2
       exec:
        - ip addr add 172.100.254.2/24 dev eth1
        - ip route del default
@@ -50,6 +101,18 @@ topology:
         - endpoints: ["mtr254:eth2","mtr253:eth1"]                   # mrt254:ether3 <-> mrt253:ether2
         - endpoints: ["mtr254:eth3","mtr252:eth1"]                   # mrt254:ether4 <-> mrt252:ether2
 
-        - endpoints: ["pc254-lan:eth1", "mtr254:eth4"]               # pc254-lan:eth1 <-> mtr254:ether5
-        - endpoints: ["pc252-lan:eth1", "mtr252:eth2"]               # pc252-lan:eth1 <-> mtr252:ether3
+        # PC 254
+        - endpoints: ["pc254-dmz:eth1", "mtr254:eth4"]               # pc254-lan:eth1 <-> mtr254:ether5
+        - endpoints: ["pc254-adm:eth1", "mtr254:eth5"]               # pc254-lan:eth1 <-> mtr254:ether6
+        - endpoints: ["pc254-lan:eth1", "mtr254:eth6"]               # pc254-lan:eth1 <-> mtr254:ether7
+
+        # PC 253
+        - endpoints: ["pc253-dmz:eth1", "mtr253:eth2"]               # pc252-lan:eth1 <-> mtr252:ether3
+        - endpoints: ["pc253-adm:eth1", "mtr253:eth3"]               # pc252-lan:eth1 <-> mtr252:ether4
+        - endpoints: ["pc253-lan:eth1", "mtr253:eth4"]               # pc252-lan:eth1 <-> mtr252:ether5
+        
+        # PC 252
+        - endpoints: ["pc252-dmz:eth1", "mtr252:eth2"]               # pc252-lan:eth1 <-> mtr252:ether3
+        - endpoints: ["pc252-adm:eth1", "mtr252:eth3"]               # pc252-lan:eth1 <-> mtr252:ether4
+        - endpoints: ["pc252-lan:eth1", "mtr252:eth4"]               # pc252-lan:eth1 <-> mtr252:ether5
 
