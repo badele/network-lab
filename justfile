@@ -4,15 +4,25 @@
 help: 
   just --list --unsorted
 
+[ no-cd ]
+[ private]
+check-config:
+  @test -f lab.clab.yml || (echo "lab.clab.yml not found" ; exit 1)
+
 # deploy containerlab lab
 [no-cd]
-deploy options="":
-  @test -f lab.clab.yml || (echo "lab.clab.yml not found" ; exit 1)
+deploy options="": check-config
   sudo containerlab deploy {{options}}
+
+# info containerlab lab
+[no-cd]
+info: check-config
+  @test -f lab.clab.yml || (echo "lab.clab.yml not found" ; exit 1)
+  sudo containerlab inspect
 
 # destroy containerlab lab
 [no-cd]
-destroy:
+destroy: check-config
   @test -f lab.clab.yml || (echo "lab.clab.yml not found" ; exit 1)
   sudo containerlab destroy || true
 

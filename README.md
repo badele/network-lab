@@ -22,6 +22,7 @@ Creating a lab is simple:
 2. Deploy the lab with the following command:
    ```bash
    just deploy
+   just info
    # Wait 1 minute before going to next step
    ```
 3. Test your lab if it run correctely:
