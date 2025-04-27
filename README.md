@@ -19,29 +19,35 @@ All these labs are designed following the **Infrastructure as Code** approach:
 Creating a lab is simple:
 
 1. Define the topology in a **YAML** file in `<LABNAME>` folder
-2. Deploy the lab with the following command:
+2. **[optional]** Build docker images²
+   ```bash
+   just build imgnameX build imgnameY
+   ```
+3. Deploy the lab with the following command:
    ```bash
    just deploy
    just info
    # Wait 1 minute before going to next step
    ```
-3. Test your lab if it run correctely:
+4. Test your lab if it run correctely:
    ```bash
    just test
    ```
-4. Show the network wires with [edgeshark](https://github.com/siemens/edgeshark)
+5. **[optional]** Show the network wires with
+   [edgeshark](https://github.com/siemens/edgeshark)
    ```bash
    just edgeshark-start
    just edgeshark-open
    just edgeshark-stop
    ```
-5. Document your lab in a D2 file:
+6. Document your lab in a D2 file:
    ```bash
    just diagram
    ```
 
 ## Labs
 
-| Name                                                                     | Description                 | Tags                 |
-| ------------------------------------------------------------------------ | --------------------------- | -------------------- |
-| [2024-11-18 - mikrotik-ipv4-vlan-homelab](./mikrotik-ipv4-vlan-homelab/) | 3 VLANs on Mikrotik routers | ipv4, vlan, mikrotik |
+| Name                                                                     | Description                      | Tags                    |
+| ------------------------------------------------------------------------ | -------------------------------- | ----------------------- |
+| [2024-11-18 - mikrotik-ipv4-vlan-homelab](./mikrotik-ipv4-vlan-homelab/) | 3 VLANs on Mikrotik routers      | ipv4, vlan, mikrotik    |
+| [2025-04-26 - mikrotik-dns-failover](./mikrotik-dns-failover/)           | DNS failover on Mikrotik routers | dns, failover, mikrotik |

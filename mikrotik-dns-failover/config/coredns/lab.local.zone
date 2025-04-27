@@ -1,0 +1,18 @@
+$ORIGIN lab.local.
+$TTL 3600
+
+@   IN  SOA ns.lab.local. admin.lab.local. (
+        2025042301 ; serial
+        3600       ; refresh
+        1800       ; retry
+        604800     ; expire
+        86400 )    ; minimum
+
+    IN  NS  ns.lab.local.
+
+ns          IN  A   127.0.0.1
+dns1        IN  A   172.100.100.254
+dns2        IN  A   172.100.100.2
+dns3        IN  A   172.100.100.3
+dns4        IN  A   172.100.100.4
+
