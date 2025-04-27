@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" data-d2-version="v0.6.9" preserveAspectRatio="xMinYMin meet" viewBox="0 0 2633 1246"><svg class="d2-4135888513 d2-svg" width="2633" height="1246" viewBox="-89 -179 2633 1246"><rect x="-89.000000" y="-179.000000" width="2633.000000" height="1246.000000" rx="0.000000" fill="#FFFFFF" class=" fill-N7" stroke-width="0" /><style type="text/css"><![CDATA[
-.d2-4135888513 .text {
-	font-family: "d2-4135888513-font-regular";
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" data-d2-version="v0.6.9" preserveAspectRatio="xMinYMin meet" viewBox="0 0 2633 1246"><svg class="d2-3478767107 d2-svg" width="2633" height="1246" viewBox="-89 -179 2633 1246"><rect x="-89.000000" y="-179.000000" width="2633.000000" height="1246.000000" rx="0.000000" fill="#1E1E2E" class=" fill-N7" stroke-width="0" /><style type="text/css"><![CDATA[
+.d2-3478767107 .text {
+	font-family: "d2-3478767107-font-regular";
 }
 @font-face {
-	font-family: d2-4135888513-font-regular;
+	font-family: d2-3478767107-font-regular;
 	src: url("data:application/font-woff;base64,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");
 }
-.d2-4135888513 .text-bold {
-	font-family: "d2-4135888513-font-bold";
+.d2-3478767107 .text-bold {
+	font-family: "d2-3478767107-font-bold";
 }
 @font-face {
-	font-family: d2-4135888513-font-bold;
+	font-family: d2-3478767107-font-bold;
 	src: url("data:application/font-woff;base64,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");
 }
-.d2-4135888513 .text-italic {
-	font-family: "d2-4135888513-font-italic";
+.d2-3478767107 .text-italic {
+	font-family: "d2-3478767107-font-italic";
 }
 @font-face {
-	font-family: d2-4135888513-font-italic;
+	font-family: d2-3478767107-font-italic;
 	src: url("data:application/font-woff;base64,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");
 }]]></style><style type="text/css"><![CDATA[.shape {
   shape-rendering: geometricPrecision;
@@ -32,191 +32,191 @@
   opacity: 0.5;
 }
 
-		.d2-4135888513 .fill-N1{fill:#0A0F25;}
-		.d2-4135888513 .fill-N2{fill:#676C7E;}
-		.d2-4135888513 .fill-N3{fill:#9499AB;}
-		.d2-4135888513 .fill-N4{fill:#CFD2DD;}
-		.d2-4135888513 .fill-N5{fill:#DEE1EB;}
-		.d2-4135888513 .fill-N6{fill:#EEF1F8;}
-		.d2-4135888513 .fill-N7{fill:#FFFFFF;}
-		.d2-4135888513 .fill-B1{fill:#0D32B2;}
-		.d2-4135888513 .fill-B2{fill:#0D32B2;}
-		.d2-4135888513 .fill-B3{fill:#E3E9FD;}
-		.d2-4135888513 .fill-B4{fill:#E3E9FD;}
-		.d2-4135888513 .fill-B5{fill:#EDF0FD;}
-		.d2-4135888513 .fill-B6{fill:#F7F8FE;}
-		.d2-4135888513 .fill-AA2{fill:#4A6FF3;}
-		.d2-4135888513 .fill-AA4{fill:#EDF0FD;}
-		.d2-4135888513 .fill-AA5{fill:#F7F8FE;}
-		.d2-4135888513 .fill-AB4{fill:#EDF0FD;}
-		.d2-4135888513 .fill-AB5{fill:#F7F8FE;}
-		.d2-4135888513 .stroke-N1{stroke:#0A0F25;}
-		.d2-4135888513 .stroke-N2{stroke:#676C7E;}
-		.d2-4135888513 .stroke-N3{stroke:#9499AB;}
-		.d2-4135888513 .stroke-N4{stroke:#CFD2DD;}
-		.d2-4135888513 .stroke-N5{stroke:#DEE1EB;}
-		.d2-4135888513 .stroke-N6{stroke:#EEF1F8;}
-		.d2-4135888513 .stroke-N7{stroke:#FFFFFF;}
-		.d2-4135888513 .stroke-B1{stroke:#0D32B2;}
-		.d2-4135888513 .stroke-B2{stroke:#0D32B2;}
-		.d2-4135888513 .stroke-B3{stroke:#E3E9FD;}
-		.d2-4135888513 .stroke-B4{stroke:#E3E9FD;}
-		.d2-4135888513 .stroke-B5{stroke:#EDF0FD;}
-		.d2-4135888513 .stroke-B6{stroke:#F7F8FE;}
-		.d2-4135888513 .stroke-AA2{stroke:#4A6FF3;}
-		.d2-4135888513 .stroke-AA4{stroke:#EDF0FD;}
-		.d2-4135888513 .stroke-AA5{stroke:#F7F8FE;}
-		.d2-4135888513 .stroke-AB4{stroke:#EDF0FD;}
-		.d2-4135888513 .stroke-AB5{stroke:#F7F8FE;}
-		.d2-4135888513 .background-color-N1{background-color:#0A0F25;}
-		.d2-4135888513 .background-color-N2{background-color:#676C7E;}
-		.d2-4135888513 .background-color-N3{background-color:#9499AB;}
-		.d2-4135888513 .background-color-N4{background-color:#CFD2DD;}
-		.d2-4135888513 .background-color-N5{background-color:#DEE1EB;}
-		.d2-4135888513 .background-color-N6{background-color:#EEF1F8;}
-		.d2-4135888513 .background-color-N7{background-color:#FFFFFF;}
-		.d2-4135888513 .background-color-B1{background-color:#0D32B2;}
-		.d2-4135888513 .background-color-B2{background-color:#0D32B2;}
-		.d2-4135888513 .background-color-B3{background-color:#E3E9FD;}
-		.d2-4135888513 .background-color-B4{background-color:#E3E9FD;}
-		.d2-4135888513 .background-color-B5{background-color:#EDF0FD;}
-		.d2-4135888513 .background-color-B6{background-color:#F7F8FE;}
-		.d2-4135888513 .background-color-AA2{background-color:#4A6FF3;}
-		.d2-4135888513 .background-color-AA4{background-color:#EDF0FD;}
-		.d2-4135888513 .background-color-AA5{background-color:#F7F8FE;}
-		.d2-4135888513 .background-color-AB4{background-color:#EDF0FD;}
-		.d2-4135888513 .background-color-AB5{background-color:#F7F8FE;}
-		.d2-4135888513 .color-N1{color:#0A0F25;}
-		.d2-4135888513 .color-N2{color:#676C7E;}
-		.d2-4135888513 .color-N3{color:#9499AB;}
-		.d2-4135888513 .color-N4{color:#CFD2DD;}
-		.d2-4135888513 .color-N5{color:#DEE1EB;}
-		.d2-4135888513 .color-N6{color:#EEF1F8;}
-		.d2-4135888513 .color-N7{color:#FFFFFF;}
-		.d2-4135888513 .color-B1{color:#0D32B2;}
-		.d2-4135888513 .color-B2{color:#0D32B2;}
-		.d2-4135888513 .color-B3{color:#E3E9FD;}
-		.d2-4135888513 .color-B4{color:#E3E9FD;}
-		.d2-4135888513 .color-B5{color:#EDF0FD;}
-		.d2-4135888513 .color-B6{color:#F7F8FE;}
-		.d2-4135888513 .color-AA2{color:#4A6FF3;}
-		.d2-4135888513 .color-AA4{color:#EDF0FD;}
-		.d2-4135888513 .color-AA5{color:#F7F8FE;}
-		.d2-4135888513 .color-AB4{color:#EDF0FD;}
-		.d2-4135888513 .color-AB5{color:#F7F8FE;}.appendix text.text{fill:#0A0F25}.md{--color-fg-default:#0A0F25;--color-fg-muted:#676C7E;--color-fg-subtle:#9499AB;--color-canvas-default:#FFFFFF;--color-canvas-subtle:#EEF1F8;--color-border-default:#0D32B2;--color-border-muted:#0D32B2;--color-neutral-muted:#EEF1F8;--color-accent-fg:#0D32B2;--color-accent-emphasis:#0D32B2;--color-attention-subtle:#676C7E;--color-danger-fg:red;}.sketch-overlay-B1{fill:url(#streaks-darker-d2-4135888513);mix-blend-mode:lighten}.sketch-overlay-B2{fill:url(#streaks-darker-d2-4135888513);mix-blend-mode:lighten}.sketch-overlay-B3{fill:url(#streaks-bright-d2-4135888513);mix-blend-mode:darken}.sketch-overlay-B4{fill:url(#streaks-bright-d2-4135888513);mix-blend-mode:darken}.sketch-overlay-B5{fill:url(#streaks-bright-d2-4135888513);mix-blend-mode:darken}.sketch-overlay-B6{fill:url(#streaks-bright-d2-4135888513);mix-blend-mode:darken}.sketch-overlay-AA2{fill:url(#streaks-dark-d2-4135888513);mix-blend-mode:overlay}.sketch-overlay-AA4{fill:url(#streaks-bright-d2-4135888513);mix-blend-mode:darken}.sketch-overlay-AA5{fill:url(#streaks-bright-d2-4135888513);mix-blend-mode:darken}.sketch-overlay-AB4{fill:url(#streaks-bright-d2-4135888513);mix-blend-mode:darken}.sketch-overlay-AB5{fill:url(#streaks-bright-d2-4135888513);mix-blend-mode:darken}.sketch-overlay-N1{fill:url(#streaks-darker-d2-4135888513);mix-blend-mode:lighten}.sketch-overlay-N2{fill:url(#streaks-dark-d2-4135888513);mix-blend-mode:overlay}.sketch-overlay-N3{fill:url(#streaks-normal-d2-4135888513);mix-blend-mode:color-burn}.sketch-overlay-N4{fill:url(#streaks-normal-d2-4135888513);mix-blend-mode:color-burn}.sketch-overlay-N5{fill:url(#streaks-bright-d2-4135888513);mix-blend-mode:darken}.sketch-overlay-N6{fill:url(#streaks-bright-d2-4135888513);mix-blend-mode:darken}.sketch-overlay-N7{fill:url(#streaks-bright-d2-4135888513);mix-blend-mode:darken}.light-code{display: block}.dark-code{display: none}]]></style><style type="text/css">.d2-4135888513 .md em,
-.d2-4135888513 .md dfn {
-  font-family: "d2-4135888513-font-italic";
+		.d2-3478767107 .fill-N1{fill:#CDD6F4;}
+		.d2-3478767107 .fill-N2{fill:#BAC2DE;}
+		.d2-3478767107 .fill-N3{fill:#A6ADC8;}
+		.d2-3478767107 .fill-N4{fill:#585B70;}
+		.d2-3478767107 .fill-N5{fill:#45475A;}
+		.d2-3478767107 .fill-N6{fill:#313244;}
+		.d2-3478767107 .fill-N7{fill:#1E1E2E;}
+		.d2-3478767107 .fill-B1{fill:#CBA6f7;}
+		.d2-3478767107 .fill-B2{fill:#CBA6f7;}
+		.d2-3478767107 .fill-B3{fill:#6C7086;}
+		.d2-3478767107 .fill-B4{fill:#585B70;}
+		.d2-3478767107 .fill-B5{fill:#45475A;}
+		.d2-3478767107 .fill-B6{fill:#313244;}
+		.d2-3478767107 .fill-AA2{fill:#f38BA8;}
+		.d2-3478767107 .fill-AA4{fill:#45475A;}
+		.d2-3478767107 .fill-AA5{fill:#313244;}
+		.d2-3478767107 .fill-AB4{fill:#45475A;}
+		.d2-3478767107 .fill-AB5{fill:#313244;}
+		.d2-3478767107 .stroke-N1{stroke:#CDD6F4;}
+		.d2-3478767107 .stroke-N2{stroke:#BAC2DE;}
+		.d2-3478767107 .stroke-N3{stroke:#A6ADC8;}
+		.d2-3478767107 .stroke-N4{stroke:#585B70;}
+		.d2-3478767107 .stroke-N5{stroke:#45475A;}
+		.d2-3478767107 .stroke-N6{stroke:#313244;}
+		.d2-3478767107 .stroke-N7{stroke:#1E1E2E;}
+		.d2-3478767107 .stroke-B1{stroke:#CBA6f7;}
+		.d2-3478767107 .stroke-B2{stroke:#CBA6f7;}
+		.d2-3478767107 .stroke-B3{stroke:#6C7086;}
+		.d2-3478767107 .stroke-B4{stroke:#585B70;}
+		.d2-3478767107 .stroke-B5{stroke:#45475A;}
+		.d2-3478767107 .stroke-B6{stroke:#313244;}
+		.d2-3478767107 .stroke-AA2{stroke:#f38BA8;}
+		.d2-3478767107 .stroke-AA4{stroke:#45475A;}
+		.d2-3478767107 .stroke-AA5{stroke:#313244;}
+		.d2-3478767107 .stroke-AB4{stroke:#45475A;}
+		.d2-3478767107 .stroke-AB5{stroke:#313244;}
+		.d2-3478767107 .background-color-N1{background-color:#CDD6F4;}
+		.d2-3478767107 .background-color-N2{background-color:#BAC2DE;}
+		.d2-3478767107 .background-color-N3{background-color:#A6ADC8;}
+		.d2-3478767107 .background-color-N4{background-color:#585B70;}
+		.d2-3478767107 .background-color-N5{background-color:#45475A;}
+		.d2-3478767107 .background-color-N6{background-color:#313244;}
+		.d2-3478767107 .background-color-N7{background-color:#1E1E2E;}
+		.d2-3478767107 .background-color-B1{background-color:#CBA6f7;}
+		.d2-3478767107 .background-color-B2{background-color:#CBA6f7;}
+		.d2-3478767107 .background-color-B3{background-color:#6C7086;}
+		.d2-3478767107 .background-color-B4{background-color:#585B70;}
+		.d2-3478767107 .background-color-B5{background-color:#45475A;}
+		.d2-3478767107 .background-color-B6{background-color:#313244;}
+		.d2-3478767107 .background-color-AA2{background-color:#f38BA8;}
+		.d2-3478767107 .background-color-AA4{background-color:#45475A;}
+		.d2-3478767107 .background-color-AA5{background-color:#313244;}
+		.d2-3478767107 .background-color-AB4{background-color:#45475A;}
+		.d2-3478767107 .background-color-AB5{background-color:#313244;}
+		.d2-3478767107 .color-N1{color:#CDD6F4;}
+		.d2-3478767107 .color-N2{color:#BAC2DE;}
+		.d2-3478767107 .color-N3{color:#A6ADC8;}
+		.d2-3478767107 .color-N4{color:#585B70;}
+		.d2-3478767107 .color-N5{color:#45475A;}
+		.d2-3478767107 .color-N6{color:#313244;}
+		.d2-3478767107 .color-N7{color:#1E1E2E;}
+		.d2-3478767107 .color-B1{color:#CBA6f7;}
+		.d2-3478767107 .color-B2{color:#CBA6f7;}
+		.d2-3478767107 .color-B3{color:#6C7086;}
+		.d2-3478767107 .color-B4{color:#585B70;}
+		.d2-3478767107 .color-B5{color:#45475A;}
+		.d2-3478767107 .color-B6{color:#313244;}
+		.d2-3478767107 .color-AA2{color:#f38BA8;}
+		.d2-3478767107 .color-AA4{color:#45475A;}
+		.d2-3478767107 .color-AA5{color:#313244;}
+		.d2-3478767107 .color-AB4{color:#45475A;}
+		.d2-3478767107 .color-AB5{color:#313244;}.appendix text.text{fill:#CDD6F4}.md{--color-fg-default:#CDD6F4;--color-fg-muted:#BAC2DE;--color-fg-subtle:#A6ADC8;--color-canvas-default:#1E1E2E;--color-canvas-subtle:#313244;--color-border-default:#CBA6f7;--color-border-muted:#CBA6f7;--color-neutral-muted:#313244;--color-accent-fg:#CBA6f7;--color-accent-emphasis:#CBA6f7;--color-attention-subtle:#BAC2DE;--color-danger-fg:red;}.sketch-overlay-B1{fill:url(#streaks-normal-d2-3478767107);mix-blend-mode:color-burn}.sketch-overlay-B2{fill:url(#streaks-normal-d2-3478767107);mix-blend-mode:color-burn}.sketch-overlay-B3{fill:url(#streaks-dark-d2-3478767107);mix-blend-mode:overlay}.sketch-overlay-B4{fill:url(#streaks-dark-d2-3478767107);mix-blend-mode:overlay}.sketch-overlay-B5{fill:url(#streaks-darker-d2-3478767107);mix-blend-mode:lighten}.sketch-overlay-B6{fill:url(#streaks-darker-d2-3478767107);mix-blend-mode:lighten}.sketch-overlay-AA2{fill:url(#streaks-normal-d2-3478767107);mix-blend-mode:color-burn}.sketch-overlay-AA4{fill:url(#streaks-darker-d2-3478767107);mix-blend-mode:lighten}.sketch-overlay-AA5{fill:url(#streaks-darker-d2-3478767107);mix-blend-mode:lighten}.sketch-overlay-AB4{fill:url(#streaks-darker-d2-3478767107);mix-blend-mode:lighten}.sketch-overlay-AB5{fill:url(#streaks-darker-d2-3478767107);mix-blend-mode:lighten}.sketch-overlay-N1{fill:url(#streaks-normal-d2-3478767107);mix-blend-mode:color-burn}.sketch-overlay-N2{fill:url(#streaks-normal-d2-3478767107);mix-blend-mode:color-burn}.sketch-overlay-N3{fill:url(#streaks-normal-d2-3478767107);mix-blend-mode:color-burn}.sketch-overlay-N4{fill:url(#streaks-dark-d2-3478767107);mix-blend-mode:overlay}.sketch-overlay-N5{fill:url(#streaks-darker-d2-3478767107);mix-blend-mode:lighten}.sketch-overlay-N6{fill:url(#streaks-darker-d2-3478767107);mix-blend-mode:lighten}.sketch-overlay-N7{fill:url(#streaks-darker-d2-3478767107);mix-blend-mode:lighten}.light-code{display: none}.dark-code{display: block}]]></style><style type="text/css">.d2-3478767107 .md em,
+.d2-3478767107 .md dfn {
+  font-family: "d2-3478767107-font-italic";
 }
 
-.d2-4135888513 .md b,
-.d2-4135888513 .md strong {
-  font-family: "d2-4135888513-font-bold";
+.d2-3478767107 .md b,
+.d2-3478767107 .md strong {
+  font-family: "d2-3478767107-font-bold";
 }
 
-.d2-4135888513 .md code,
-.d2-4135888513 .md kbd,
-.d2-4135888513 .md pre,
-.d2-4135888513 .md samp {
-  font-family: "d2-4135888513-font-mono";
+.d2-3478767107 .md code,
+.d2-3478767107 .md kbd,
+.d2-3478767107 .md pre,
+.d2-3478767107 .md samp {
+  font-family: "d2-3478767107-font-mono";
   font-size: 1em;
 }
 
-.d2-4135888513 .md {
+.d2-3478767107 .md {
   tab-size: 4;
 }
 
 /* variables are provided in d2renderers/d2svg/d2svg.go */
 
-.d2-4135888513 .md {
+.d2-3478767107 .md {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   margin: 0;
   color: var(--color-fg-default);
   background-color: transparent; /* we don't want to define the background color */
-  font-family: "d2-4135888513-font-regular";
+  font-family: "d2-3478767107-font-regular";
   font-size: 16px;
   line-height: 1.5;
   word-wrap: break-word;
 }
 
-.d2-4135888513 .md details,
-.d2-4135888513 .md figcaption,
-.d2-4135888513 .md figure {
+.d2-3478767107 .md details,
+.d2-3478767107 .md figcaption,
+.d2-3478767107 .md figure {
   display: block;
 }
 
-.d2-4135888513 .md summary {
+.d2-3478767107 .md summary {
   display: list-item;
 }
 
-.d2-4135888513 .md [hidden] {
+.d2-3478767107 .md [hidden] {
   display: none !important;
 }
 
-.d2-4135888513 .md a {
+.d2-3478767107 .md a {
   background-color: transparent;
   color: var(--color-accent-fg);
   text-decoration: none;
 }
 
-.d2-4135888513 .md a:active,
-.d2-4135888513 .md a:hover {
+.d2-3478767107 .md a:active,
+.d2-3478767107 .md a:hover {
   outline-width: 0;
 }
 
-.d2-4135888513 .md abbr[title] {
+.d2-3478767107 .md abbr[title] {
   border-bottom: none;
   text-decoration: underline dotted;
 }
 
-.d2-4135888513 .md dfn {
+.d2-3478767107 .md dfn {
   font-style: italic;
 }
 
-.d2-4135888513 .md h1 {
+.d2-3478767107 .md h1 {
   margin: 0.67em 0;
   padding-bottom: 0.3em;
   font-size: 2em;
   border-bottom: 1px solid var(--color-border-muted);
 }
 
-.d2-4135888513 .md mark {
+.d2-3478767107 .md mark {
   background-color: var(--color-attention-subtle);
   color: var(--color-text-primary);
 }
 
-.d2-4135888513 .md small {
+.d2-3478767107 .md small {
   font-size: 90%;
 }
 
-.d2-4135888513 .md sub,
-.d2-4135888513 .md sup {
+.d2-3478767107 .md sub,
+.d2-3478767107 .md sup {
   font-size: 75%;
   line-height: 0;
   position: relative;
   vertical-align: baseline;
 }
 
-.d2-4135888513 .md sub {
+.d2-3478767107 .md sub {
   bottom: -0.25em;
 }
 
-.d2-4135888513 .md sup {
+.d2-3478767107 .md sup {
   top: -0.5em;
 }
 
-.d2-4135888513 .md img {
+.d2-3478767107 .md img {
   border-style: none;
   max-width: 100%;
   box-sizing: content-box;
   background-color: var(--color-canvas-default);
 }
 
-.d2-4135888513 .md figure {
+.d2-3478767107 .md figure {
   margin: 1em 40px;
 }
 
-.d2-4135888513 .md hr {
+.d2-3478767107 .md hr {
   box-sizing: content-box;
   overflow: hidden;
   background: transparent;
@@ -228,7 +228,7 @@
   border: 0;
 }
 
-.d2-4135888513 .md input {
+.d2-3478767107 .md input {
   font: inherit;
   margin: 0;
   overflow: visible;
@@ -237,72 +237,72 @@
   line-height: inherit;
 }
 
-.d2-4135888513 .md [type="button"],
-.d2-4135888513 .md [type="reset"],
-.d2-4135888513 .md [type="submit"] {
+.d2-3478767107 .md [type="button"],
+.d2-3478767107 .md [type="reset"],
+.d2-3478767107 .md [type="submit"] {
   -webkit-appearance: button;
 }
 
-.d2-4135888513 .md [type="button"]::-moz-focus-inner,
-.d2-4135888513 .md [type="reset"]::-moz-focus-inner,
-.d2-4135888513 .md [type="submit"]::-moz-focus-inner {
+.d2-3478767107 .md [type="button"]::-moz-focus-inner,
+.d2-3478767107 .md [type="reset"]::-moz-focus-inner,
+.d2-3478767107 .md [type="submit"]::-moz-focus-inner {
   border-style: none;
   padding: 0;
 }
 
-.d2-4135888513 .md [type="button"]:-moz-focusring,
-.d2-4135888513 .md [type="reset"]:-moz-focusring,
-.d2-4135888513 .md [type="submit"]:-moz-focusring {
+.d2-3478767107 .md [type="button"]:-moz-focusring,
+.d2-3478767107 .md [type="reset"]:-moz-focusring,
+.d2-3478767107 .md [type="submit"]:-moz-focusring {
   outline: 1px dotted ButtonText;
 }
 
-.d2-4135888513 .md [type="checkbox"],
-.d2-4135888513 .md [type="radio"] {
+.d2-3478767107 .md [type="checkbox"],
+.d2-3478767107 .md [type="radio"] {
   box-sizing: border-box;
   padding: 0;
 }
 
-.d2-4135888513 .md [type="number"]::-webkit-inner-spin-button,
-.d2-4135888513 .md [type="number"]::-webkit-outer-spin-button {
+.d2-3478767107 .md [type="number"]::-webkit-inner-spin-button,
+.d2-3478767107 .md [type="number"]::-webkit-outer-spin-button {
   height: auto;
 }
 
-.d2-4135888513 .md [type="search"] {
+.d2-3478767107 .md [type="search"] {
   -webkit-appearance: textfield;
   outline-offset: -2px;
 }
 
-.d2-4135888513 .md [type="search"]::-webkit-search-cancel-button,
-.d2-4135888513 .md [type="search"]::-webkit-search-decoration {
+.d2-3478767107 .md [type="search"]::-webkit-search-cancel-button,
+.d2-3478767107 .md [type="search"]::-webkit-search-decoration {
   -webkit-appearance: none;
 }
 
-.d2-4135888513 .md ::-webkit-input-placeholder {
+.d2-3478767107 .md ::-webkit-input-placeholder {
   color: inherit;
   opacity: 0.54;
 }
 
-.d2-4135888513 .md ::-webkit-file-upload-button {
+.d2-3478767107 .md ::-webkit-file-upload-button {
   -webkit-appearance: button;
   font: inherit;
 }
 
-.d2-4135888513 .md a:hover {
+.d2-3478767107 .md a:hover {
   text-decoration: underline;
 }
 
-.d2-4135888513 .md hr::before {
+.d2-3478767107 .md hr::before {
   display: table;
   content: "";
 }
 
-.d2-4135888513 .md hr::after {
+.d2-3478767107 .md hr::after {
   display: table;
   clear: both;
   content: "";
 }
 
-.d2-4135888513 .md table {
+.d2-3478767107 .md table {
   border-spacing: 0;
   border-collapse: collapse;
   display: block;
@@ -311,20 +311,20 @@
   overflow: auto;
 }
 
-.d2-4135888513 .md td,
-.d2-4135888513 .md th {
+.d2-3478767107 .md td,
+.d2-3478767107 .md th {
   padding: 0;
 }
 
-.d2-4135888513 .md details summary {
+.d2-3478767107 .md details summary {
   cursor: pointer;
 }
 
-.d2-4135888513 .md details:not([open]) > *:not(summary) {
+.d2-3478767107 .md details:not([open]) > *:not(summary) {
   display: none !important;
 }
 
-.d2-4135888513 .md kbd {
+.d2-3478767107 .md kbd {
   display: inline-block;
   padding: 3px 5px;
   color: var(--color-fg-default);
@@ -336,279 +336,279 @@
   box-shadow: inset 0 -1px 0 var(--color-neutral-muted);
 }
 
-.d2-4135888513 .md h1,
-.d2-4135888513 .md h2,
-.d2-4135888513 .md h3,
-.d2-4135888513 .md h4,
-.d2-4135888513 .md h5,
-.d2-4135888513 .md h6 {
+.d2-3478767107 .md h1,
+.d2-3478767107 .md h2,
+.d2-3478767107 .md h3,
+.d2-3478767107 .md h4,
+.d2-3478767107 .md h5,
+.d2-3478767107 .md h6 {
   margin-top: 24px;
   margin-bottom: 16px;
   font-weight: 400;
   line-height: 1.25;
-  font-family: "d2-4135888513-font-semibold";
+  font-family: "d2-3478767107-font-semibold";
 }
 
-.d2-4135888513 .md h2 {
+.d2-3478767107 .md h2 {
   padding-bottom: 0.3em;
   font-size: 1.5em;
   border-bottom: 1px solid var(--color-border-muted);
 }
 
-.d2-4135888513 .md h3 {
+.d2-3478767107 .md h3 {
   font-size: 1.25em;
 }
 
-.d2-4135888513 .md h4 {
+.d2-3478767107 .md h4 {
   font-size: 1em;
 }
 
-.d2-4135888513 .md h5 {
+.d2-3478767107 .md h5 {
   font-size: 0.875em;
 }
 
-.d2-4135888513 .md h6 {
+.d2-3478767107 .md h6 {
   font-size: 0.85em;
   color: var(--color-fg-muted);
 }
 
-.d2-4135888513 .md p {
+.d2-3478767107 .md p {
   margin-top: 0;
   margin-bottom: 10px;
 }
 
-.d2-4135888513 .md blockquote {
+.d2-3478767107 .md blockquote {
   margin: 0;
   padding: 0 1em;
   color: var(--color-fg-muted);
   border-left: 0.25em solid var(--color-border-default);
 }
 
-.d2-4135888513 .md ul,
-.d2-4135888513 .md ol {
+.d2-3478767107 .md ul,
+.d2-3478767107 .md ol {
   margin-top: 0;
   margin-bottom: 0;
   padding-left: 2em;
 }
 
-.d2-4135888513 .md ol ol,
-.d2-4135888513 .md ul ol {
+.d2-3478767107 .md ol ol,
+.d2-3478767107 .md ul ol {
   list-style-type: lower-roman;
 }
 
-.d2-4135888513 .md ul ul ol,
-.d2-4135888513 .md ul ol ol,
-.d2-4135888513 .md ol ul ol,
-.d2-4135888513 .md ol ol ol {
+.d2-3478767107 .md ul ul ol,
+.d2-3478767107 .md ul ol ol,
+.d2-3478767107 .md ol ul ol,
+.d2-3478767107 .md ol ol ol {
   list-style-type: lower-alpha;
 }
 
-.d2-4135888513 .md dd {
+.d2-3478767107 .md dd {
   margin-left: 0;
 }
 
-.d2-4135888513 .md pre {
+.d2-3478767107 .md pre {
   margin-top: 0;
   margin-bottom: 0;
   word-wrap: normal;
 }
 
-.d2-4135888513 .md ::placeholder {
+.d2-3478767107 .md ::placeholder {
   color: var(--color-fg-subtle);
   opacity: 1;
 }
 
-.d2-4135888513 .md input::-webkit-outer-spin-button,
-.d2-4135888513 .md input::-webkit-inner-spin-button {
+.d2-3478767107 .md input::-webkit-outer-spin-button,
+.d2-3478767107 .md input::-webkit-inner-spin-button {
   margin: 0;
   -webkit-appearance: none;
   appearance: none;
 }
 
-.d2-4135888513 .md::before {
+.d2-3478767107 .md::before {
   display: table;
   content: "";
 }
 
-.d2-4135888513 .md::after {
+.d2-3478767107 .md::after {
   display: table;
   clear: both;
   content: "";
 }
 
-.d2-4135888513 .md > *:first-child {
+.d2-3478767107 .md > *:first-child {
   margin-top: 0 !important;
 }
 
-.d2-4135888513 .md > *:last-child {
+.d2-3478767107 .md > *:last-child {
   margin-bottom: 0 !important;
 }
 
-.d2-4135888513 .md a:not([href]) {
+.d2-3478767107 .md a:not([href]) {
   color: inherit;
   text-decoration: none;
 }
 
-.d2-4135888513 .md .absent {
+.d2-3478767107 .md .absent {
   color: var(--color-danger-fg);
 }
 
-.d2-4135888513 .md .anchor {
+.d2-3478767107 .md .anchor {
   float: left;
   padding-right: 4px;
   margin-left: -20px;
   line-height: 1;
 }
 
-.d2-4135888513 .md .anchor:focus {
+.d2-3478767107 .md .anchor:focus {
   outline: none;
 }
 
-.d2-4135888513 .md p,
-.d2-4135888513 .md blockquote,
-.d2-4135888513 .md ul,
-.d2-4135888513 .md ol,
-.d2-4135888513 .md dl,
-.d2-4135888513 .md table,
-.d2-4135888513 .md pre,
-.d2-4135888513 .md details {
+.d2-3478767107 .md p,
+.d2-3478767107 .md blockquote,
+.d2-3478767107 .md ul,
+.d2-3478767107 .md ol,
+.d2-3478767107 .md dl,
+.d2-3478767107 .md table,
+.d2-3478767107 .md pre,
+.d2-3478767107 .md details {
   margin-top: 0;
   margin-bottom: 16px;
 }
 
-.d2-4135888513 .md blockquote > :first-child {
+.d2-3478767107 .md blockquote > :first-child {
   margin-top: 0;
 }
 
-.d2-4135888513 .md blockquote > :last-child {
+.d2-3478767107 .md blockquote > :last-child {
   margin-bottom: 0;
 }
 
-.d2-4135888513 .md sup > a::before {
+.d2-3478767107 .md sup > a::before {
   content: "[";
 }
 
-.d2-4135888513 .md sup > a::after {
+.d2-3478767107 .md sup > a::after {
   content: "]";
 }
 
-.d2-4135888513 .md h1:hover .anchor,
-.d2-4135888513 .md h2:hover .anchor,
-.d2-4135888513 .md h3:hover .anchor,
-.d2-4135888513 .md h4:hover .anchor,
-.d2-4135888513 .md h5:hover .anchor,
-.d2-4135888513 .md h6:hover .anchor {
+.d2-3478767107 .md h1:hover .anchor,
+.d2-3478767107 .md h2:hover .anchor,
+.d2-3478767107 .md h3:hover .anchor,
+.d2-3478767107 .md h4:hover .anchor,
+.d2-3478767107 .md h5:hover .anchor,
+.d2-3478767107 .md h6:hover .anchor {
   text-decoration: none;
 }
 
-.d2-4135888513 .md h1 tt,
-.d2-4135888513 .md h1 code,
-.d2-4135888513 .md h2 tt,
-.d2-4135888513 .md h2 code,
-.d2-4135888513 .md h3 tt,
-.d2-4135888513 .md h3 code,
-.d2-4135888513 .md h4 tt,
-.d2-4135888513 .md h4 code,
-.d2-4135888513 .md h5 tt,
-.d2-4135888513 .md h5 code,
-.d2-4135888513 .md h6 tt,
-.d2-4135888513 .md h6 code {
+.d2-3478767107 .md h1 tt,
+.d2-3478767107 .md h1 code,
+.d2-3478767107 .md h2 tt,
+.d2-3478767107 .md h2 code,
+.d2-3478767107 .md h3 tt,
+.d2-3478767107 .md h3 code,
+.d2-3478767107 .md h4 tt,
+.d2-3478767107 .md h4 code,
+.d2-3478767107 .md h5 tt,
+.d2-3478767107 .md h5 code,
+.d2-3478767107 .md h6 tt,
+.d2-3478767107 .md h6 code {
   padding: 0 0.2em;
   font-size: inherit;
 }
 
-.d2-4135888513 .md ul.no-list,
-.d2-4135888513 .md ol.no-list {
+.d2-3478767107 .md ul.no-list,
+.d2-3478767107 .md ol.no-list {
   padding: 0;
   list-style-type: none;
 }
 
-.d2-4135888513 .md ol[type="1"] {
+.d2-3478767107 .md ol[type="1"] {
   list-style-type: decimal;
 }
 
-.d2-4135888513 .md ol[type="a"] {
+.d2-3478767107 .md ol[type="a"] {
   list-style-type: lower-alpha;
 }
 
-.d2-4135888513 .md ol[type="i"] {
+.d2-3478767107 .md ol[type="i"] {
   list-style-type: lower-roman;
 }
 
-.d2-4135888513 .md div > ol:not([type]) {
+.d2-3478767107 .md div > ol:not([type]) {
   list-style-type: decimal;
 }
 
-.d2-4135888513 .md ul ul,
-.d2-4135888513 .md ul ol,
-.d2-4135888513 .md ol ol,
-.d2-4135888513 .md ol ul {
+.d2-3478767107 .md ul ul,
+.d2-3478767107 .md ul ol,
+.d2-3478767107 .md ol ol,
+.d2-3478767107 .md ol ul {
   margin-top: 0;
   margin-bottom: 0;
 }
 
-.d2-4135888513 .md li > p {
+.d2-3478767107 .md li > p {
   margin-top: 16px;
 }
 
-.d2-4135888513 .md li + li {
+.d2-3478767107 .md li + li {
   margin-top: 0.25em;
 }
 
-.d2-4135888513 .md dl {
+.d2-3478767107 .md dl {
   padding: 0;
 }
 
-.d2-4135888513 .md dl dt {
+.d2-3478767107 .md dl dt {
   padding: 0;
   margin-top: 16px;
   font-size: 1em;
   font-style: italic;
-  font-family: "d2-4135888513-font-semibold";
+  font-family: "d2-3478767107-font-semibold";
 }
 
-.d2-4135888513 .md dl dd {
+.d2-3478767107 .md dl dd {
   padding: 0 16px;
   margin-bottom: 16px;
 }
 
-.d2-4135888513 .md table th {
-  font-family: "d2-4135888513-font-semibold";
+.d2-3478767107 .md table th {
+  font-family: "d2-3478767107-font-semibold";
 }
 
-.d2-4135888513 .md table th,
-.d2-4135888513 .md table td {
+.d2-3478767107 .md table th,
+.d2-3478767107 .md table td {
   padding: 6px 13px;
   border: 1px solid var(--color-border-default);
 }
 
-.d2-4135888513 .md table tr {
+.d2-3478767107 .md table tr {
   background-color: var(--color-canvas-default);
   border-top: 1px solid var(--color-border-muted);
 }
 
-.d2-4135888513 .md table tr:nth-child(2n) {
+.d2-3478767107 .md table tr:nth-child(2n) {
   background-color: var(--color-canvas-subtle);
 }
 
-.d2-4135888513 .md table img {
+.d2-3478767107 .md table img {
   background-color: transparent;
 }
 
-.d2-4135888513 .md img[align="right"] {
+.d2-3478767107 .md img[align="right"] {
   padding-left: 20px;
 }
 
-.d2-4135888513 .md img[align="left"] {
+.d2-3478767107 .md img[align="left"] {
   padding-right: 20px;
 }
 
-.d2-4135888513 .md span.frame {
+.d2-3478767107 .md span.frame {
   display: block;
   overflow: hidden;
 }
 
-.d2-4135888513 .md span.frame > span {
+.d2-3478767107 .md span.frame > span {
   display: block;
   float: left;
   width: auto;
@@ -618,81 +618,81 @@
   border: 1px solid var(--color-border-default);
 }
 
-.d2-4135888513 .md span.frame span img {
+.d2-3478767107 .md span.frame span img {
   display: block;
   float: left;
 }
 
-.d2-4135888513 .md span.frame span span {
+.d2-3478767107 .md span.frame span span {
   display: block;
   padding: 5px 0 0;
   clear: both;
   color: var(--color-fg-default);
 }
 
-.d2-4135888513 .md span.align-center {
+.d2-3478767107 .md span.align-center {
   display: block;
   overflow: hidden;
   clear: both;
 }
 
-.d2-4135888513 .md span.align-center > span {
+.d2-3478767107 .md span.align-center > span {
   display: block;
   margin: 13px auto 0;
   overflow: hidden;
   text-align: center;
 }
 
-.d2-4135888513 .md span.align-center span img {
+.d2-3478767107 .md span.align-center span img {
   margin: 0 auto;
   text-align: center;
 }
 
-.d2-4135888513 .md span.align-right {
+.d2-3478767107 .md span.align-right {
   display: block;
   overflow: hidden;
   clear: both;
 }
 
-.d2-4135888513 .md span.align-right > span {
+.d2-3478767107 .md span.align-right > span {
   display: block;
   margin: 13px 0 0;
   overflow: hidden;
   text-align: right;
 }
 
-.d2-4135888513 .md span.align-right span img {
+.d2-3478767107 .md span.align-right span img {
   margin: 0;
   text-align: right;
 }
 
-.d2-4135888513 .md span.float-left {
+.d2-3478767107 .md span.float-left {
   display: block;
   float: left;
   margin-right: 13px;
   overflow: hidden;
 }
 
-.d2-4135888513 .md span.float-left span {
+.d2-3478767107 .md span.float-left span {
   margin: 13px 0 0;
 }
 
-.d2-4135888513 .md span.float-right {
+.d2-3478767107 .md span.float-right {
   display: block;
   float: right;
   margin-left: 13px;
   overflow: hidden;
 }
 
-.d2-4135888513 .md span.float-right > span {
+.d2-3478767107 .md span.float-right > span {
   display: block;
   margin: 13px auto 0;
   overflow: hidden;
   text-align: right;
 }
 
-.d2-4135888513 .md code,
-.d2-4135888513 .md tt {
+.d2-3478767107 .md code,
+.d2-3478767107 .md tt {
   padding: 0.2em 0.4em;
   margin: 0;
   font-size: 85%;
@@ -700,20 +700,20 @@
   border-radius: 6px;
 }
 
-.d2-4135888513 .md code br,
-.d2-4135888513 .md tt br {
+.d2-3478767107 .md code br,
+.d2-3478767107 .md tt br {
   display: none;
 }
 
-.d2-4135888513 .md del code {
+.d2-3478767107 .md del code {
   text-decoration: inherit;
 }
 
-.d2-4135888513 .md pre code {
+.d2-3478767107 .md pre code {
   font-size: 100%;
 }
 
-.d2-4135888513 .md pre > code {
+.d2-3478767107 .md pre > code {
   padding: 0;
   margin: 0;
   word-break: normal;
@@ -722,17 +722,17 @@
   border: 0;
 }
 
-.d2-4135888513 .md .highlight {
+.d2-3478767107 .md .highlight {
   margin-bottom: 16px;
 }
 
-.d2-4135888513 .md .highlight pre {
+.d2-3478767107 .md .highlight pre {
   margin-bottom: 0;
   word-break: normal;
 }
 
-.d2-4135888513 .md .highlight pre,
-.d2-4135888513 .md pre {
+.d2-3478767107 .md .highlight pre,
+.d2-3478767107 .md pre {
   padding: 16px;
   overflow: auto;
   font-size: 85%;
@@ -741,8 +741,8 @@
   border-radius: 6px;
 }
 
-.d2-4135888513 .md pre code,
-.d2-4135888513 .md pre tt {
+.d2-3478767107 .md pre code,
+.d2-3478767107 .md pre tt {
   display: inline;
   max-width: auto;
   padding: 0;
@@ -754,8 +754,8 @@
   border: 0;
 }
 
-.d2-4135888513 .md .csv-data td,
-.d2-4135888513 .md .csv-data th {
+.d2-3478767107 .md .csv-data td,
+.d2-3478767107 .md .csv-data th {
   padding: 5px;
   overflow: hidden;
   font-size: 12px;
@@ -764,38 +764,38 @@
   white-space: nowrap;
 }
 
-.d2-4135888513 .md .csv-data .blob-num {
+.d2-3478767107 .md .csv-data .blob-num {
   padding: 10px 8px 9px;
   text-align: right;
   background: var(--color-canvas-default);
   border: 0;
 }
 
-.d2-4135888513 .md .csv-data tr {
+.d2-3478767107 .md .csv-data tr {
   border-top: 0;
 }
 
-.d2-4135888513 .md .csv-data th {
-  font-family: "d2-4135888513-font-semibold";
+.d2-3478767107 .md .csv-data th {
+  font-family: "d2-3478767107-font-semibold";
   background: var(--color-canvas-subtle);
   border-top: 0;
 }
 
-.d2-4135888513 .md .footnotes {
+.d2-3478767107 .md .footnotes {
   font-size: 12px;
   color: var(--color-fg-muted);
   border-top: 1px solid var(--color-border-default);
 }
 
-.d2-4135888513 .md .footnotes ol {
+.d2-3478767107 .md .footnotes ol {
   padding-left: 16px;
 }
 
-.d2-4135888513 .md .footnotes li {
+.d2-3478767107 .md .footnotes li {
   position: relative;
 }
 
-.d2-4135888513 .md .footnotes li:target::before {
+.d2-3478767107 .md .footnotes li:target::before {
   position: absolute;
   top: -8px;
   right: -8px;
@@ -807,39 +807,39 @@
   border-radius: 6px;
 }
 
-.d2-4135888513 .md .footnotes li:target {
+.d2-3478767107 .md .footnotes li:target {
   color: var(--color-fg-default);
 }
 
-.d2-4135888513 .md .task-list-item {
+.d2-3478767107 .md .task-list-item {
   list-style-type: none;
 }
 
-.d2-4135888513 .md .task-list-item label {
+.d2-3478767107 .md .task-list-item label {
   font-weight: 400;
 }
 
-.d2-4135888513 .md .task-list-item.enabled label {
+.d2-3478767107 .md .task-list-item.enabled label {
   cursor: pointer;
 }
 
-.d2-4135888513 .md .task-list-item + .task-list-item {
+.d2-3478767107 .md .task-list-item + .task-list-item {
   margin-top: 3px;
 }
 
-.d2-4135888513 .md .task-list-item .handle {
+.d2-3478767107 .md .task-list-item .handle {
   display: none;
 }
 
-.d2-4135888513 .md .task-list-item-checkbox {
+.d2-3478767107 .md .task-list-item-checkbox {
   margin: 0 0.2em 0.25em -1.6em;
   vertical-align: middle;
 }
 
-.d2-4135888513 .md .contains-task-list:dir(rtl) .task-list-item-checkbox {
+.d2-3478767107 .md .contains-task-list:dir(rtl) .task-list-item-checkbox {
   margin: 0 -1.6em 0.25em 0.2em;
 }
-</style><g class="dGl0bGU="><g class="shape" ></g><text x="1227.000000" y="-23.000000" fill="#0A0F25" class="text fill-N1" style="text-anchor:middle;font-size:55px">homelab network</text></g><g class="aW50ZXJuZXQ="><g class="shape" ><path d="M 33 476 C 33 477 32 478 31 478 C 20 479 12 490 12 504 C 12 519 21 531 33 531 H 114 C 127 531 137 518 137 503 C 137 488 127 476 115 475 C 114 475 113 474 113 473 C 110 458 98 447 83 447 C 73 447 65 452 59 459 C 58 460 57 460 57 460 C 55 459 53 459 50 459 C 42 459 34 466 33 476 Z" stroke="#0D32B2" fill="#FFFFFF" class=" stroke-B1 fill-N7" style="stroke-width:2;" /></g><text x="74.597000" y="510.516000" fill="#0A0F25" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">internet</text></g><g class="bXRyMjU0"><g class="shape" ><rect x="213.000000" y="180.000000" width="889.000000" height="618.000000" stroke="#0D32B2" fill="#E3E9FD" class=" stroke-B1 fill-B4" style="stroke-width:2;" /></g><text x="657.500000" y="213.000000" fill="#0A0F25" class="text fill-N1" style="text-anchor:middle;font-size:28px">mtr254</text></g><g class="bXRyMjUz"><g class="shape" ><rect x="1304.000000" y="12.000000" width="841.000000" height="338.000000" stroke="#0D32B2" fill="#E3E9FD" class=" stroke-B1 fill-B4" style="stroke-width:2;" /></g><text x="1724.500000" y="45.000000" fill="#0A0F25" class="text fill-N1" style="text-anchor:middle;font-size:28px">mtr253</text></g><g class="bXRyMjUy"><g class="shape" ><rect x="1304.000000" y="628.000000" width="841.000000" height="338.000000" stroke="#0D32B2" fill="#E3E9FD" class=" stroke-B1 fill-B4" style="stroke-width:2;" /></g><text x="1724.500000" y="661.000000" fill="#0A0F25" class="text fill-N1" style="text-anchor:middle;font-size:28px">mtr252</text></g><g class="cGMyNTQtZG16"><g class="shape" ><rect x="1304.000000" y="370.000000" width="122.000000" height="66.000000" stroke="#0D32B2" fill="#F7F8FE" class=" stroke-B1 fill-B6" style="stroke-width:2;" /></g><text x="1365.000000" y="408.500000" fill="#0A0F25" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">pc254-dmz</text></g><g class="cGMyNTQtYWRt"><g class="shape" ><rect x="1304.000000" y="456.000000" width="122.000000" height="66.000000" stroke="#0D32B2" fill="#F7F8FE" class=" stroke-B1 fill-B6" style="stroke-width:2;" /></g><text x="1365.000000" y="494.500000" fill="#0A0F25" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">pc254-adm</text></g><g class="cGMyNTQtbGFu"><g class="shape" ><rect x="1304.000000" y="542.000000" width="114.000000" height="66.000000" stroke="#0D32B2" fill="#F7F8FE" class=" stroke-B1 fill-B6" style="stroke-width:2;" /></g><text x="1361.000000" y="580.500000" fill="#0A0F25" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">pc254-lan</text></g><g class="cGMyNTMtZG16"><g class="shape" ><rect x="2321.000000" y="62.000000" width="122.000000" height="66.000000" stroke="#0D32B2" fill="#F7F8FE" class=" stroke-B1 fill-B6" style="stroke-width:2;" /></g><text x="2382.000000" y="100.500000" fill="#0A0F25" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">pc253-dmz</text></g><g class="cGMyNTMtYWRt"><g class="shape" ><rect x="2321.000000" y="148.000000" width="122.000000" height="66.000000" stroke="#0D32B2" fill="#F7F8FE" class=" stroke-B1 fill-B6" style="stroke-width:2;" /></g><text x="2382.000000" y="186.500000" fill="#0A0F25" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">pc253-adm</text></g><g class="cGMyNTMtbGFu"><g class="shape" ><rect x="2321.000000" y="234.000000" width="114.000000" height="66.000000" stroke="#0D32B2" fill="#F7F8FE" class=" stroke-B1 fill-B6" style="stroke-width:2;" /></g><text x="2378.000000" y="272.500000" fill="#0A0F25" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">pc253-lan</text></g><g class="cGMyNTItZG16"><g class="shape" ><rect x="2321.000000" y="678.000000" width="122.000000" height="66.000000" stroke="#0D32B2" fill="#F7F8FE" class=" stroke-B1 fill-B6" style="stroke-width:2;" /></g><text x="2382.000000" y="716.500000" fill="#0A0F25" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">pc252-dmz</text></g><g class="cGMyNTItYWRt"><g class="shape" ><rect x="2321.000000" y="764.000000" width="122.000000" height="66.000000" stroke="#0D32B2" fill="#F7F8FE" class=" stroke-B1 fill-B6" style="stroke-width:2;" /></g><text x="2382.000000" y="802.500000" fill="#0A0F25" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">pc252-adm</text></g><g class="cGMyNTItbGFu"><g class="shape" ><rect x="2321.000000" y="850.000000" width="114.000000" height="66.000000" stroke="#0D32B2" fill="#F7F8FE" class=" stroke-B1 fill-B6" style="stroke-width:2;" /></g><text x="2378.000000" y="888.500000" fill="#0A0F25" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">pc252-lan</text></g><g class="bXRyMjU0LmV0aDAy"><g class="shape" ><rect x="263.000000" y="456.000000" width="85.000000" height="66.000000" stroke="#0D32B2" fill="#EDF0FD" class=" stroke-B1 fill-B5" style="stroke-width:2;" /></g><text x="305.500000" y="494.500000" fill="#0A0F25" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">eth02</text></g><g class="bXRyMjU0LmJyaWRnZQ=="><g class="shape" ><rect x="418.000000" y="309.000000" width="90.000000" height="360.000000" stroke="#0D32B2" fill="#EDF0FD" class=" stroke-B1 fill-B5" style="stroke-width:2;" /></g><text x="463.000000" y="494.500000" fill="#0A0F25" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">bridge</text></g><g class="bXRyMjU0LmV0aDAz"><g class="shape" ><rect x="966.000000" y="230.000000" width="85.000000" height="120.000000" stroke="#0D32B2" fill="#EDF0FD" class=" stroke-B1 fill-B5" style="stroke-width:2;" /></g><text x="1008.500000" y="295.500000" fill="#0A0F25" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">eth03</text></g><g class="bXRyMjU0LmV0aDA1"><g class="shape" ><rect x="966.000000" y="370.000000" width="85.000000" height="66.000000" stroke="#0D32B2" fill="#EDF0FD" class=" stroke-B1 fill-B5" style="stroke-width:2;" /></g><text x="1008.500000" y="408.500000" fill="#0A0F25" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">eth05</text></g><g class="bXRyMjU0LmV0aDA2"><g class="shape" ><rect x="966.000000" y="456.000000" width="85.000000" height="66.000000" stroke="#0D32B2" fill="#EDF0FD" class=" stroke-B1 fill-B5" style="stroke-width:2;" /></g><text x="1008.500000" y="494.500000" fill="#0A0F25" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">eth06</text></g><g class="bXRyMjU0LmV0aDA3"><g class="shape" ><rect x="966.000000" y="542.000000" width="85.000000" height="66.000000" stroke="#0D32B2" fill="#EDF0FD" class=" stroke-B1 fill-B5" style="stroke-width:2;" /></g><text x="1008.500000" y="580.500000" fill="#0A0F25" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">eth07</text></g><g class="bXRyMjU0LmV0aDA0"><g class="shape" ><rect x="966.000000" y="628.000000" width="86.000000" height="120.000000" stroke="#0D32B2" fill="#EDF0FD" class=" stroke-B1 fill-B5" style="stroke-width:2;" /></g><text x="1009.000000" y="693.500000" fill="#0A0F25" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">eth04</text></g><g class="bXRyMjUzLmV0aDAy"><g class="shape" ><rect x="1354.000000" y="148.000000" width="85.000000" height="66.000000" stroke="#0D32B2" fill="#EDF0FD" class=" stroke-B1 fill-B5" style="stroke-width:2;" /></g><text x="1396.500000" y="186.500000" fill="#0A0F25" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">eth02</text></g><g class="bXRyMjUyLmV0aDAy"><g class="shape" ><rect x="1354.000000" y="764.000000" width="85.000000" height="66.000000" stroke="#0D32B2" fill="#EDF0FD" class=" stroke-B1 fill-B5" style="stroke-width:2;" /></g><text x="1396.500000" y="802.500000" fill="#0A0F25" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">eth02</text></g><g class="bXRyMjUzLmJyaWRnZQ=="><g class="shape" ><rect x="1621.000000" y="121.000000" width="90.000000" height="120.000000" stroke="#0D32B2" fill="#EDF0FD" class=" stroke-B1 fill-B5" style="stroke-width:2;" /></g><text x="1666.000000" y="186.500000" fill="#0A0F25" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">bridge</text></g><g class="bXRyMjUzLmV0aDAz"><g class="shape" ><rect x="2009.000000" y="62.000000" width="85.000000" height="66.000000" stroke="#0D32B2" fill="#EDF0FD" class=" stroke-B1 fill-B5" style="stroke-width:2;" /></g><text x="2051.500000" y="100.500000" fill="#0A0F25" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">eth03</text></g><g class="bXRyMjUzLmV0aDA0"><g class="shape" ><rect x="2009.000000" y="148.000000" width="86.000000" height="66.000000" stroke="#0D32B2" fill="#EDF0FD" class=" stroke-B1 fill-B5" style="stroke-width:2;" /></g><text x="2052.000000" y="186.500000" fill="#0A0F25" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">eth04</text></g><g class="bXRyMjUzLmV0aDA1"><g class="shape" ><rect x="2009.000000" y="234.000000" width="85.000000" height="66.000000" stroke="#0D32B2" fill="#EDF0FD" class=" stroke-B1 fill-B5" style="stroke-width:2;" /></g><text x="2051.500000" y="272.500000" fill="#0A0F25" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">eth05</text></g><g class="bXRyMjUyLmJyaWRnZQ=="><g class="shape" ><rect x="1621.000000" y="737.000000" width="90.000000" height="120.000000" stroke="#0D32B2" fill="#EDF0FD" class=" stroke-B1 fill-B5" style="stroke-width:2;" /></g><text x="1666.000000" y="802.500000" fill="#0A0F25" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">bridge</text></g><g class="bXRyMjUyLmV0aDAz"><g class="shape" ><rect x="2009.000000" y="678.000000" width="85.000000" height="66.000000" stroke="#0D32B2" fill="#EDF0FD" class=" stroke-B1 fill-B5" style="stroke-width:2;" /></g><text x="2051.500000" y="716.500000" fill="#0A0F25" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">eth03</text></g><g class="bXRyMjUyLmV0aDA0"><g class="shape" ><rect x="2009.000000" y="764.000000" width="86.000000" height="66.000000" stroke="#0D32B2" fill="#EDF0FD" class=" stroke-B1 fill-B5" style="stroke-width:2;" /></g><text x="2052.000000" y="802.500000" fill="#0A0F25" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">eth04</text></g><g class="bXRyMjUyLmV0aDA1"><g class="shape" ><rect x="2009.000000" y="850.000000" width="85.000000" height="66.000000" stroke="#0D32B2" fill="#EDF0FD" class=" stroke-B1 fill-B5" style="stroke-width:2;" /></g><text x="2051.500000" y="888.500000" fill="#0A0F25" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">eth05</text></g><g class="KGludGVybmV0IC0tIG10cjI1NC5ldGgwMilbMF0="><path d="M 136.000000 489.000000 L 261.000000 489.000000" stroke="red" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-4135888513)" /></g><g class="bXRyMjU0LihldGgwMiAtLSBicmlkZ2UpWzBd"><path d="M 350.000000 489.000000 L 416.000000 489.000000" stroke="red" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-4135888513)" /></g><g class="bXRyMjU0LihicmlkZ2UgLS0gZXRoMDMpWzBd"><path d="M 510.000000 345.000000 L 538.000000 345.000000 S 548.000000 345.000000 548.000000 335.000000 L 548.000000 267.000000 S 548.000000 257.000000 558.000000 257.000000 L 964.000000 257.000000" stroke="orange" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-4135888513)" /><text x="693.000000" y="263.000000" fill="#676C7E" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">tagged VLAN DMZ(32)</text></g><g class="bXRyMjU0LihicmlkZ2UgLS0gZXRoMDMpWzFd"><path d="M 510.000000 381.000000 L 588.000000 381.000000 S 598.000000 381.000000 598.000000 371.000000 L 598.000000 300.000000 S 598.000000 290.000000 608.000000 290.000000 L 964.000000 290.000000" stroke="purple" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-4135888513)" /><text x="692.000000" y="296.000000" fill="#676C7E" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">tagged VLAN ADM(240)</text></g><g class="bXRyMjU0LihicmlkZ2UgLS0gZXRoMDMpWzJd"><path d="M 510.000000 417.000000 L 638.000000 417.000000 S 648.000000 417.000000 648.000000 407.000000 L 648.000000 330.000000 S 648.000000 320.000000 658.000000 320.000000 L 964.000000 320.000000" stroke="green" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-4135888513)" /><text x="688.500000" y="326.000000" fill="#676C7E" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">tagged VLAN LAN(254)</text></g><g class="bXRyMjU0LihicmlkZ2UgLS0gZXRoMDUpWzBd"><path d="M 510.000000 453.000000 L 688.000000 453.000000 S 698.000000 453.000000 698.000000 443.000000 L 698.000000 413.000000 S 698.000000 403.000000 708.000000 403.000000 L 965.000000 403.000000" stroke="orange" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-4135888513)" /><text x="713.000000" y="409.000000" fill="#676C7E" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">tagged VLAN DMZ(32)</text></g><g class="bXRyMjU0LihicmlkZ2UgLS0gZXRoMDYpWzBd"><path d="M 509.500000 489.000000 L 964.500000 489.000000" stroke="purple" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-4135888513)" /><text x="737.000000" y="495.000000" fill="#676C7E" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">tagged VLAN ADM(240)</text></g><g class="bXRyMjU0LihicmlkZ2UgLS0gZXRoMDcpWzBd"><path d="M 510.000000 525.000000 L 688.000000 525.000000 S 698.000000 525.000000 698.000000 535.000000 L 698.000000 565.000000 S 698.000000 575.000000 708.000000 575.000000 L 965.000000 575.000000" stroke="green" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-4135888513)" /><text x="712.500000" y="581.000000" fill="#676C7E" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">tagged VLAN LAN(254)</text></g><g class="bXRyMjU0LihicmlkZ2UgLS0gZXRoMDQpWzBd"><path d="M 510.000000 561.000000 L 638.000000 561.000000 S 648.000000 561.000000 648.000000 571.000000 L 648.000000 648.000000 S 648.000000 658.000000 658.000000 658.000000 L 964.000000 658.000000" stroke="orange" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-4135888513)" /><text x="689.000000" y="664.000000" fill="#676C7E" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">tagged VLAN DMZ(32)</text></g><g class="bXRyMjU0LihicmlkZ2UgLS0gZXRoMDQpWzFd"><path d="M 510.000000 597.000000 L 588.000000 597.000000 S 598.000000 597.000000 598.000000 607.000000 L 598.000000 678.000000 S 598.000000 688.000000 608.000000 688.000000 L 964.000000 688.000000" stroke="purple" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-4135888513)" /><text x="692.000000" y="694.000000" fill="#676C7E" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">tagged VLAN ADM(240)</text></g><g class="bXRyMjU0LihicmlkZ2UgLS0gZXRoMDQpWzJd"><path d="M 510.000000 633.000000 L 538.000000 633.000000 S 548.000000 633.000000 548.000000 643.000000 L 548.000000 711.000000 S 548.000000 721.000000 558.000000 721.000000 L 964.000000 721.000000" stroke="green" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-4135888513)" /><text x="693.500000" y="727.000000" fill="#676C7E" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">tagged VLAN LAN(254)</text></g><g class="KG10cjI1NC5ldGgwMyAtLSBtdHIyNTMuZXRoMDIpWzBd"><path d="M 1056.000000 290.000000 L 1137.000000 290.000000 S 1147.000000 290.000000 1147.000000 280.000000 L 1147.000000 191.000000 S 1147.000000 181.000000 1157.000000 181.000000 L 1349.000000 181.000000" stroke="#0D32B2" fill="none" class="connection stroke-B1" style="stroke-width:8;" mask="url(#d2-4135888513)" /><text x="1148.000000" y="187.000000" fill="#676C7E" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">Trunk:</text></g><g class="KG10cjI1NC5ldGgwNCAtLSBtdHIyNTIuZXRoMDIpWzBd"><path d="M 1057.000000 688.000000 L 1137.000000 688.000000 S 1147.000000 688.000000 1147.000000 698.000000 L 1147.000000 787.000000 S 1147.000000 797.000000 1157.000000 797.000000 L 1349.000000 797.000000" stroke="#0D32B2" fill="none" class="connection stroke-B1" style="stroke-width:8;" mask="url(#d2-4135888513)" /><text x="1149.000000" y="803.000000" fill="#676C7E" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">Trunk:</text></g><g class="KG10cjI1NC5ldGgwNSAtLSBwYzI1NC1kbXopWzBd"><path d="M 1053.000000 403.000000 L 1302.000000 403.000000" stroke="orange" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-4135888513)" /><text x="1178.000000" y="409.000000" fill="#676C7E" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">DMZ</text></g><g class="KG10cjI1NC5ldGgwNiAtLSBwYzI1NC1hZG0pWzBd"><path d="M 1053.000000 489.000000 L 1302.000000 489.000000" stroke="purple" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-4135888513)" /><text x="1177.500000" y="495.000000" fill="#676C7E" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">ADM</text></g><g class="KG10cjI1NC5ldGgwNyAtLSBwYzI1NC1sYW4pWzBd"><path d="M 1053.000000 575.000000 L 1302.000000 575.000000" stroke="green" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-4135888513)" /><text x="1178.000000" y="581.000000" fill="#676C7E" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">LAN</text></g><g class="bXRyMjUzLihldGgwMiAtLSBicmlkZ2UpWzBd"><path d="M 1444.000000 181.000000 L 1616.000000 181.000000" stroke="#0D32B2" fill="none" class="connection stroke-B1" style="stroke-width:8;" mask="url(#d2-4135888513)" /><text x="1530.000000" y="187.000000" fill="#676C7E" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">Trunk:</text></g><g class="bXRyMjUzLihicmlkZ2UgLS0gZXRoMDMpWzBd"><path d="M 1713.000000 151.000000 L 1741.000000 151.000000 S 1751.000000 151.000000 1751.000000 141.000000 L 1751.000000 105.000000 S 1751.000000 95.000000 1761.000000 95.000000 L 2008.000000 95.000000" stroke="orange" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-4135888513)" /><text x="1833.000000" y="101.000000" fill="#676C7E" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">tagged VLAN DMZ(32)</text></g><g class="bXRyMjUzLihicmlkZ2UgLS0gZXRoMDQpWzBd"><path d="M 1713.000000 181.000000 L 2007.000000 181.000000" stroke="purple" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-4135888513)" /><text x="1860.000000" y="187.000000" fill="#676C7E" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">tagged VLAN ADM(240)</text></g><g class="bXRyMjUzLihicmlkZ2UgLS0gZXRoMDUpWzBd"><path d="M 1713.000000 211.000000 L 1741.000000 211.000000 S 1751.000000 211.000000 1751.000000 221.000000 L 1751.000000 257.000000 S 1751.000000 267.000000 1761.000000 267.000000 L 2008.000000 267.000000" stroke="green" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-4135888513)" /><text x="1832.500000" y="273.000000" fill="#676C7E" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">tagged VLAN LAN(254)</text></g><g class="KG10cjI1My5ldGgwMyAtLSBwYzI1My1kbXopWzBd"><path d="M 2096.000000 95.000000 L 2319.000000 95.000000" stroke="orange" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-4135888513)" /><text x="2208.000000" y="101.000000" fill="#676C7E" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">DMZ</text></g><g class="KG10cjI1My5ldGgwNCAtLSBwYzI1My1hZG0pWzBd"><path d="M 2097.000000 181.000000 L 2319.000000 181.000000" stroke="purple" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-4135888513)" /><text x="2208.500000" y="187.000000" fill="#676C7E" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">ADM</text></g><g class="KG10cjI1My5ldGgwNSAtLSBwYzI1My1sYW4pWzBd"><path d="M 2096.000000 267.000000 L 2319.000000 267.000000" stroke="green" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-4135888513)" /><text x="2208.000000" y="273.000000" fill="#676C7E" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">LAN</text></g><g class="bXRyMjUyLihldGgwMiAtLSBicmlkZ2UpWzBd"><path d="M 1444.000000 797.000000 L 1616.000000 797.000000" stroke="#0D32B2" fill="none" class="connection stroke-B1" style="stroke-width:8;" mask="url(#d2-4135888513)" /><text x="1530.000000" y="803.000000" fill="#676C7E" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">Trunk:</text></g><g class="bXRyMjUyLihicmlkZ2UgLS0gZXRoMDMpWzBd"><path d="M 1713.000000 767.000000 L 1741.000000 767.000000 S 1751.000000 767.000000 1751.000000 757.000000 L 1751.000000 721.000000 S 1751.000000 711.000000 1761.000000 711.000000 L 2008.000000 711.000000" stroke="orange" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-4135888513)" /><text x="1833.000000" y="717.000000" fill="#676C7E" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">tagged VLAN DMZ(32)</text></g><g class="bXRyMjUyLihicmlkZ2UgLS0gZXRoMDQpWzBd"><path d="M 1713.000000 797.000000 L 2007.000000 797.000000" stroke="purple" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-4135888513)" /><text x="1860.000000" y="803.000000" fill="#676C7E" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">tagged VLAN ADM(240)</text></g><g class="bXRyMjUyLihicmlkZ2UgLS0gZXRoMDUpWzBd"><path d="M 1713.000000 827.000000 L 1741.000000 827.000000 S 1751.000000 827.000000 1751.000000 837.000000 L 1751.000000 873.000000 S 1751.000000 883.000000 1761.000000 883.000000 L 2008.000000 883.000000" stroke="green" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-4135888513)" /><text x="1832.500000" y="889.000000" fill="#676C7E" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">tagged VLAN LAN(254)</text></g><g class="KG10cjI1Mi5ldGgwMyAtLSBwYzI1Mi1kbXopWzBd"><path d="M 2096.000000 711.000000 L 2319.000000 711.000000" stroke="orange" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-4135888513)" /><text x="2208.000000" y="717.000000" fill="#676C7E" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">DMZ</text></g><g class="KG10cjI1Mi5ldGgwNCAtLSBwYzI1Mi1hZG0pWzBd"><path d="M 2097.000000 797.000000 L 2319.000000 797.000000" stroke="purple" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-4135888513)" /><text x="2208.500000" y="803.000000" fill="#676C7E" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">ADM</text></g><g class="KG10cjI1Mi5ldGgwNSAtLSBwYzI1Mi1sYW4pWzBd"><path d="M 2096.000000 883.000000 L 2319.000000 883.000000" stroke="green" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-4135888513)" /><text x="2208.000000" y="889.000000" fill="#676C7E" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">LAN</text></g><mask id="d2-4135888513" maskUnits="userSpaceOnUse" x="-89" y="-179" width="2633" height="1246">
+</style><g class="dGl0bGU="><g class="shape" ></g><text x="1227.000000" y="-23.000000" fill="#CDD6F4" class="text fill-N1" style="text-anchor:middle;font-size:55px">homelab network</text></g><g class="aW50ZXJuZXQ="><g class="shape" ><path d="M 33 476 C 33 477 32 478 31 478 C 20 479 12 490 12 504 C 12 519 21 531 33 531 H 114 C 127 531 137 518 137 503 C 137 488 127 476 115 475 C 114 475 113 474 113 473 C 110 458 98 447 83 447 C 73 447 65 452 59 459 C 58 460 57 460 57 460 C 55 459 53 459 50 459 C 42 459 34 466 33 476 Z" stroke="#CBA6f7" fill="#1E1E2E" class=" stroke-B1 fill-N7" style="stroke-width:2;" /></g><text x="74.597000" y="510.516000" fill="#CDD6F4" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">internet</text></g><g class="bXRyMjU0"><g class="shape" ><rect x="213.000000" y="180.000000" width="889.000000" height="618.000000" stroke="#CBA6f7" fill="#585B70" class=" stroke-B1 fill-B4" style="stroke-width:2;" /></g><text x="657.500000" y="213.000000" fill="#CDD6F4" class="text fill-N1" style="text-anchor:middle;font-size:28px">mtr254</text></g><g class="bXRyMjUz"><g class="shape" ><rect x="1304.000000" y="12.000000" width="841.000000" height="338.000000" stroke="#CBA6f7" fill="#585B70" class=" stroke-B1 fill-B4" style="stroke-width:2;" /></g><text x="1724.500000" y="45.000000" fill="#CDD6F4" class="text fill-N1" style="text-anchor:middle;font-size:28px">mtr253</text></g><g class="bXRyMjUy"><g class="shape" ><rect x="1304.000000" y="628.000000" width="841.000000" height="338.000000" stroke="#CBA6f7" fill="#585B70" class=" stroke-B1 fill-B4" style="stroke-width:2;" /></g><text x="1724.500000" y="661.000000" fill="#CDD6F4" class="text fill-N1" style="text-anchor:middle;font-size:28px">mtr252</text></g><g class="cGMyNTQtZG16"><g class="shape" ><rect x="1304.000000" y="370.000000" width="122.000000" height="66.000000" stroke="#CBA6f7" fill="#313244" class=" stroke-B1 fill-B6" style="stroke-width:2;" /></g><text x="1365.000000" y="408.500000" fill="#CDD6F4" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">pc254-dmz</text></g><g class="cGMyNTQtYWRt"><g class="shape" ><rect x="1304.000000" y="456.000000" width="122.000000" height="66.000000" stroke="#CBA6f7" fill="#313244" class=" stroke-B1 fill-B6" style="stroke-width:2;" /></g><text x="1365.000000" y="494.500000" fill="#CDD6F4" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">pc254-adm</text></g><g class="cGMyNTQtbGFu"><g class="shape" ><rect x="1304.000000" y="542.000000" width="114.000000" height="66.000000" stroke="#CBA6f7" fill="#313244" class=" stroke-B1 fill-B6" style="stroke-width:2;" /></g><text x="1361.000000" y="580.500000" fill="#CDD6F4" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">pc254-lan</text></g><g class="cGMyNTMtZG16"><g class="shape" ><rect x="2321.000000" y="62.000000" width="122.000000" height="66.000000" stroke="#CBA6f7" fill="#313244" class=" stroke-B1 fill-B6" style="stroke-width:2;" /></g><text x="2382.000000" y="100.500000" fill="#CDD6F4" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">pc253-dmz</text></g><g class="cGMyNTMtYWRt"><g class="shape" ><rect x="2321.000000" y="148.000000" width="122.000000" height="66.000000" stroke="#CBA6f7" fill="#313244" class=" stroke-B1 fill-B6" style="stroke-width:2;" /></g><text x="2382.000000" y="186.500000" fill="#CDD6F4" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">pc253-adm</text></g><g class="cGMyNTMtbGFu"><g class="shape" ><rect x="2321.000000" y="234.000000" width="114.000000" height="66.000000" stroke="#CBA6f7" fill="#313244" class=" stroke-B1 fill-B6" style="stroke-width:2;" /></g><text x="2378.000000" y="272.500000" fill="#CDD6F4" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">pc253-lan</text></g><g class="cGMyNTItZG16"><g class="shape" ><rect x="2321.000000" y="678.000000" width="122.000000" height="66.000000" stroke="#CBA6f7" fill="#313244" class=" stroke-B1 fill-B6" style="stroke-width:2;" /></g><text x="2382.000000" y="716.500000" fill="#CDD6F4" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">pc252-dmz</text></g><g class="cGMyNTItYWRt"><g class="shape" ><rect x="2321.000000" y="764.000000" width="122.000000" height="66.000000" stroke="#CBA6f7" fill="#313244" class=" stroke-B1 fill-B6" style="stroke-width:2;" /></g><text x="2382.000000" y="802.500000" fill="#CDD6F4" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">pc252-adm</text></g><g class="cGMyNTItbGFu"><g class="shape" ><rect x="2321.000000" y="850.000000" width="114.000000" height="66.000000" stroke="#CBA6f7" fill="#313244" class=" stroke-B1 fill-B6" style="stroke-width:2;" /></g><text x="2378.000000" y="888.500000" fill="#CDD6F4" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">pc252-lan</text></g><g class="bXRyMjU0LmV0aDAy"><g class="shape" ><rect x="263.000000" y="456.000000" width="85.000000" height="66.000000" stroke="#CBA6f7" fill="#45475A" class=" stroke-B1 fill-B5" style="stroke-width:2;" /></g><text x="305.500000" y="494.500000" fill="#CDD6F4" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">eth02</text></g><g class="bXRyMjU0LmJyaWRnZQ=="><g class="shape" ><rect x="418.000000" y="309.000000" width="90.000000" height="360.000000" stroke="#CBA6f7" fill="#45475A" class=" stroke-B1 fill-B5" style="stroke-width:2;" /></g><text x="463.000000" y="494.500000" fill="#CDD6F4" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">bridge</text></g><g class="bXRyMjU0LmV0aDAz"><g class="shape" ><rect x="966.000000" y="230.000000" width="85.000000" height="120.000000" stroke="#CBA6f7" fill="#45475A" class=" stroke-B1 fill-B5" style="stroke-width:2;" /></g><text x="1008.500000" y="295.500000" fill="#CDD6F4" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">eth03</text></g><g class="bXRyMjU0LmV0aDA1"><g class="shape" ><rect x="966.000000" y="370.000000" width="85.000000" height="66.000000" stroke="#CBA6f7" fill="#45475A" class=" stroke-B1 fill-B5" style="stroke-width:2;" /></g><text x="1008.500000" y="408.500000" fill="#CDD6F4" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">eth05</text></g><g class="bXRyMjU0LmV0aDA2"><g class="shape" ><rect x="966.000000" y="456.000000" width="85.000000" height="66.000000" stroke="#CBA6f7" fill="#45475A" class=" stroke-B1 fill-B5" style="stroke-width:2;" /></g><text x="1008.500000" y="494.500000" fill="#CDD6F4" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">eth06</text></g><g class="bXRyMjU0LmV0aDA3"><g class="shape" ><rect x="966.000000" y="542.000000" width="85.000000" height="66.000000" stroke="#CBA6f7" fill="#45475A" class=" stroke-B1 fill-B5" style="stroke-width:2;" /></g><text x="1008.500000" y="580.500000" fill="#CDD6F4" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">eth07</text></g><g class="bXRyMjU0LmV0aDA0"><g class="shape" ><rect x="966.000000" y="628.000000" width="86.000000" height="120.000000" stroke="#CBA6f7" fill="#45475A" class=" stroke-B1 fill-B5" style="stroke-width:2;" /></g><text x="1009.000000" y="693.500000" fill="#CDD6F4" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">eth04</text></g><g class="bXRyMjUzLmV0aDAy"><g class="shape" ><rect x="1354.000000" y="148.000000" width="85.000000" height="66.000000" stroke="#CBA6f7" fill="#45475A" class=" stroke-B1 fill-B5" style="stroke-width:2;" /></g><text x="1396.500000" y="186.500000" fill="#CDD6F4" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">eth02</text></g><g class="bXRyMjUyLmV0aDAy"><g class="shape" ><rect x="1354.000000" y="764.000000" width="85.000000" height="66.000000" stroke="#CBA6f7" fill="#45475A" class=" stroke-B1 fill-B5" style="stroke-width:2;" /></g><text x="1396.500000" y="802.500000" fill="#CDD6F4" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">eth02</text></g><g class="bXRyMjUzLmJyaWRnZQ=="><g class="shape" ><rect x="1621.000000" y="121.000000" width="90.000000" height="120.000000" stroke="#CBA6f7" fill="#45475A" class=" stroke-B1 fill-B5" style="stroke-width:2;" /></g><text x="1666.000000" y="186.500000" fill="#CDD6F4" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">bridge</text></g><g class="bXRyMjUzLmV0aDAz"><g class="shape" ><rect x="2009.000000" y="62.000000" width="85.000000" height="66.000000" stroke="#CBA6f7" fill="#45475A" class=" stroke-B1 fill-B5" style="stroke-width:2;" /></g><text x="2051.500000" y="100.500000" fill="#CDD6F4" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">eth03</text></g><g class="bXRyMjUzLmV0aDA0"><g class="shape" ><rect x="2009.000000" y="148.000000" width="86.000000" height="66.000000" stroke="#CBA6f7" fill="#45475A" class=" stroke-B1 fill-B5" style="stroke-width:2;" /></g><text x="2052.000000" y="186.500000" fill="#CDD6F4" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">eth04</text></g><g class="bXRyMjUzLmV0aDA1"><g class="shape" ><rect x="2009.000000" y="234.000000" width="85.000000" height="66.000000" stroke="#CBA6f7" fill="#45475A" class=" stroke-B1 fill-B5" style="stroke-width:2;" /></g><text x="2051.500000" y="272.500000" fill="#CDD6F4" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">eth05</text></g><g class="bXRyMjUyLmJyaWRnZQ=="><g class="shape" ><rect x="1621.000000" y="737.000000" width="90.000000" height="120.000000" stroke="#CBA6f7" fill="#45475A" class=" stroke-B1 fill-B5" style="stroke-width:2;" /></g><text x="1666.000000" y="802.500000" fill="#CDD6F4" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">bridge</text></g><g class="bXRyMjUyLmV0aDAz"><g class="shape" ><rect x="2009.000000" y="678.000000" width="85.000000" height="66.000000" stroke="#CBA6f7" fill="#45475A" class=" stroke-B1 fill-B5" style="stroke-width:2;" /></g><text x="2051.500000" y="716.500000" fill="#CDD6F4" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">eth03</text></g><g class="bXRyMjUyLmV0aDA0"><g class="shape" ><rect x="2009.000000" y="764.000000" width="86.000000" height="66.000000" stroke="#CBA6f7" fill="#45475A" class=" stroke-B1 fill-B5" style="stroke-width:2;" /></g><text x="2052.000000" y="802.500000" fill="#CDD6F4" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">eth04</text></g><g class="bXRyMjUyLmV0aDA1"><g class="shape" ><rect x="2009.000000" y="850.000000" width="85.000000" height="66.000000" stroke="#CBA6f7" fill="#45475A" class=" stroke-B1 fill-B5" style="stroke-width:2;" /></g><text x="2051.500000" y="888.500000" fill="#CDD6F4" class="text-bold fill-N1" style="text-anchor:middle;font-size:16px">eth05</text></g><g class="KGludGVybmV0IC0tIG10cjI1NC5ldGgwMilbMF0="><path d="M 136.000000 489.000000 L 261.000000 489.000000" stroke="red" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-3478767107)" /></g><g class="bXRyMjU0LihldGgwMiAtLSBicmlkZ2UpWzBd"><path d="M 350.000000 489.000000 L 416.000000 489.000000" stroke="red" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-3478767107)" /></g><g class="bXRyMjU0LihicmlkZ2UgLS0gZXRoMDMpWzBd"><path d="M 510.000000 345.000000 L 538.000000 345.000000 S 548.000000 345.000000 548.000000 335.000000 L 548.000000 267.000000 S 548.000000 257.000000 558.000000 257.000000 L 964.000000 257.000000" stroke="orange" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-3478767107)" /><text x="693.000000" y="263.000000" fill="#BAC2DE" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">tagged VLAN DMZ(32)</text></g><g class="bXRyMjU0LihicmlkZ2UgLS0gZXRoMDMpWzFd"><path d="M 510.000000 381.000000 L 588.000000 381.000000 S 598.000000 381.000000 598.000000 371.000000 L 598.000000 300.000000 S 598.000000 290.000000 608.000000 290.000000 L 964.000000 290.000000" stroke="purple" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-3478767107)" /><text x="692.000000" y="296.000000" fill="#BAC2DE" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">tagged VLAN ADM(240)</text></g><g class="bXRyMjU0LihicmlkZ2UgLS0gZXRoMDMpWzJd"><path d="M 510.000000 417.000000 L 638.000000 417.000000 S 648.000000 417.000000 648.000000 407.000000 L 648.000000 330.000000 S 648.000000 320.000000 658.000000 320.000000 L 964.000000 320.000000" stroke="green" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-3478767107)" /><text x="688.500000" y="326.000000" fill="#BAC2DE" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">tagged VLAN LAN(254)</text></g><g class="bXRyMjU0LihicmlkZ2UgLS0gZXRoMDUpWzBd"><path d="M 510.000000 453.000000 L 688.000000 453.000000 S 698.000000 453.000000 698.000000 443.000000 L 698.000000 413.000000 S 698.000000 403.000000 708.000000 403.000000 L 965.000000 403.000000" stroke="orange" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-3478767107)" /><text x="713.000000" y="409.000000" fill="#BAC2DE" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">tagged VLAN DMZ(32)</text></g><g class="bXRyMjU0LihicmlkZ2UgLS0gZXRoMDYpWzBd"><path d="M 509.500000 489.000000 L 964.500000 489.000000" stroke="purple" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-3478767107)" /><text x="737.000000" y="495.000000" fill="#BAC2DE" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">tagged VLAN ADM(240)</text></g><g class="bXRyMjU0LihicmlkZ2UgLS0gZXRoMDcpWzBd"><path d="M 510.000000 525.000000 L 688.000000 525.000000 S 698.000000 525.000000 698.000000 535.000000 L 698.000000 565.000000 S 698.000000 575.000000 708.000000 575.000000 L 965.000000 575.000000" stroke="green" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-3478767107)" /><text x="712.500000" y="581.000000" fill="#BAC2DE" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">tagged VLAN LAN(254)</text></g><g class="bXRyMjU0LihicmlkZ2UgLS0gZXRoMDQpWzBd"><path d="M 510.000000 561.000000 L 638.000000 561.000000 S 648.000000 561.000000 648.000000 571.000000 L 648.000000 648.000000 S 648.000000 658.000000 658.000000 658.000000 L 964.000000 658.000000" stroke="orange" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-3478767107)" /><text x="689.000000" y="664.000000" fill="#BAC2DE" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">tagged VLAN DMZ(32)</text></g><g class="bXRyMjU0LihicmlkZ2UgLS0gZXRoMDQpWzFd"><path d="M 510.000000 597.000000 L 588.000000 597.000000 S 598.000000 597.000000 598.000000 607.000000 L 598.000000 678.000000 S 598.000000 688.000000 608.000000 688.000000 L 964.000000 688.000000" stroke="purple" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-3478767107)" /><text x="692.000000" y="694.000000" fill="#BAC2DE" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">tagged VLAN ADM(240)</text></g><g class="bXRyMjU0LihicmlkZ2UgLS0gZXRoMDQpWzJd"><path d="M 510.000000 633.000000 L 538.000000 633.000000 S 548.000000 633.000000 548.000000 643.000000 L 548.000000 711.000000 S 548.000000 721.000000 558.000000 721.000000 L 964.000000 721.000000" stroke="green" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-3478767107)" /><text x="693.500000" y="727.000000" fill="#BAC2DE" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">tagged VLAN LAN(254)</text></g><g class="KG10cjI1NC5ldGgwMyAtLSBtdHIyNTMuZXRoMDIpWzBd"><path d="M 1056.000000 290.000000 L 1137.000000 290.000000 S 1147.000000 290.000000 1147.000000 280.000000 L 1147.000000 191.000000 S 1147.000000 181.000000 1157.000000 181.000000 L 1349.000000 181.000000" stroke="#CBA6f7" fill="none" class="connection stroke-B1" style="stroke-width:8;" mask="url(#d2-3478767107)" /><text x="1148.000000" y="187.000000" fill="#BAC2DE" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">Trunk:</text></g><g class="KG10cjI1NC5ldGgwNCAtLSBtdHIyNTIuZXRoMDIpWzBd"><path d="M 1057.000000 688.000000 L 1137.000000 688.000000 S 1147.000000 688.000000 1147.000000 698.000000 L 1147.000000 787.000000 S 1147.000000 797.000000 1157.000000 797.000000 L 1349.000000 797.000000" stroke="#CBA6f7" fill="none" class="connection stroke-B1" style="stroke-width:8;" mask="url(#d2-3478767107)" /><text x="1149.000000" y="803.000000" fill="#BAC2DE" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">Trunk:</text></g><g class="KG10cjI1NC5ldGgwNSAtLSBwYzI1NC1kbXopWzBd"><path d="M 1053.000000 403.000000 L 1302.000000 403.000000" stroke="orange" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-3478767107)" /><text x="1178.000000" y="409.000000" fill="#BAC2DE" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">DMZ</text></g><g class="KG10cjI1NC5ldGgwNiAtLSBwYzI1NC1hZG0pWzBd"><path d="M 1053.000000 489.000000 L 1302.000000 489.000000" stroke="purple" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-3478767107)" /><text x="1177.500000" y="495.000000" fill="#BAC2DE" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">ADM</text></g><g class="KG10cjI1NC5ldGgwNyAtLSBwYzI1NC1sYW4pWzBd"><path d="M 1053.000000 575.000000 L 1302.000000 575.000000" stroke="green" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-3478767107)" /><text x="1178.000000" y="581.000000" fill="#BAC2DE" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">LAN</text></g><g class="bXRyMjUzLihldGgwMiAtLSBicmlkZ2UpWzBd"><path d="M 1444.000000 181.000000 L 1616.000000 181.000000" stroke="#CBA6f7" fill="none" class="connection stroke-B1" style="stroke-width:8;" mask="url(#d2-3478767107)" /><text x="1530.000000" y="187.000000" fill="#BAC2DE" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">Trunk:</text></g><g class="bXRyMjUzLihicmlkZ2UgLS0gZXRoMDMpWzBd"><path d="M 1713.000000 151.000000 L 1741.000000 151.000000 S 1751.000000 151.000000 1751.000000 141.000000 L 1751.000000 105.000000 S 1751.000000 95.000000 1761.000000 95.000000 L 2008.000000 95.000000" stroke="orange" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-3478767107)" /><text x="1833.000000" y="101.000000" fill="#BAC2DE" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">tagged VLAN DMZ(32)</text></g><g class="bXRyMjUzLihicmlkZ2UgLS0gZXRoMDQpWzBd"><path d="M 1713.000000 181.000000 L 2007.000000 181.000000" stroke="purple" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-3478767107)" /><text x="1860.000000" y="187.000000" fill="#BAC2DE" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">tagged VLAN ADM(240)</text></g><g class="bXRyMjUzLihicmlkZ2UgLS0gZXRoMDUpWzBd"><path d="M 1713.000000 211.000000 L 1741.000000 211.000000 S 1751.000000 211.000000 1751.000000 221.000000 L 1751.000000 257.000000 S 1751.000000 267.000000 1761.000000 267.000000 L 2008.000000 267.000000" stroke="green" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-3478767107)" /><text x="1832.500000" y="273.000000" fill="#BAC2DE" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">tagged VLAN LAN(254)</text></g><g class="KG10cjI1My5ldGgwMyAtLSBwYzI1My1kbXopWzBd"><path d="M 2096.000000 95.000000 L 2319.000000 95.000000" stroke="orange" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-3478767107)" /><text x="2208.000000" y="101.000000" fill="#BAC2DE" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">DMZ</text></g><g class="KG10cjI1My5ldGgwNCAtLSBwYzI1My1hZG0pWzBd"><path d="M 2097.000000 181.000000 L 2319.000000 181.000000" stroke="purple" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-3478767107)" /><text x="2208.500000" y="187.000000" fill="#BAC2DE" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">ADM</text></g><g class="KG10cjI1My5ldGgwNSAtLSBwYzI1My1sYW4pWzBd"><path d="M 2096.000000 267.000000 L 2319.000000 267.000000" stroke="green" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-3478767107)" /><text x="2208.000000" y="273.000000" fill="#BAC2DE" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">LAN</text></g><g class="bXRyMjUyLihldGgwMiAtLSBicmlkZ2UpWzBd"><path d="M 1444.000000 797.000000 L 1616.000000 797.000000" stroke="#CBA6f7" fill="none" class="connection stroke-B1" style="stroke-width:8;" mask="url(#d2-3478767107)" /><text x="1530.000000" y="803.000000" fill="#BAC2DE" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">Trunk:</text></g><g class="bXRyMjUyLihicmlkZ2UgLS0gZXRoMDMpWzBd"><path d="M 1713.000000 767.000000 L 1741.000000 767.000000 S 1751.000000 767.000000 1751.000000 757.000000 L 1751.000000 721.000000 S 1751.000000 711.000000 1761.000000 711.000000 L 2008.000000 711.000000" stroke="orange" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-3478767107)" /><text x="1833.000000" y="717.000000" fill="#BAC2DE" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">tagged VLAN DMZ(32)</text></g><g class="bXRyMjUyLihicmlkZ2UgLS0gZXRoMDQpWzBd"><path d="M 1713.000000 797.000000 L 2007.000000 797.000000" stroke="purple" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-3478767107)" /><text x="1860.000000" y="803.000000" fill="#BAC2DE" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">tagged VLAN ADM(240)</text></g><g class="bXRyMjUyLihicmlkZ2UgLS0gZXRoMDUpWzBd"><path d="M 1713.000000 827.000000 L 1741.000000 827.000000 S 1751.000000 827.000000 1751.000000 837.000000 L 1751.000000 873.000000 S 1751.000000 883.000000 1761.000000 883.000000 L 2008.000000 883.000000" stroke="green" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-3478767107)" /><text x="1832.500000" y="889.000000" fill="#BAC2DE" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">tagged VLAN LAN(254)</text></g><g class="KG10cjI1Mi5ldGgwMyAtLSBwYzI1Mi1kbXopWzBd"><path d="M 2096.000000 711.000000 L 2319.000000 711.000000" stroke="orange" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-3478767107)" /><text x="2208.000000" y="717.000000" fill="#BAC2DE" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">DMZ</text></g><g class="KG10cjI1Mi5ldGgwNCAtLSBwYzI1Mi1hZG0pWzBd"><path d="M 2097.000000 797.000000 L 2319.000000 797.000000" stroke="purple" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-3478767107)" /><text x="2208.500000" y="803.000000" fill="#BAC2DE" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">ADM</text></g><g class="KG10cjI1Mi5ldGgwNSAtLSBwYzI1Mi1sYW4pWzBd"><path d="M 2096.000000 883.000000 L 2319.000000 883.000000" stroke="green" fill="none" class="connection" style="stroke-width:2;" mask="url(#d2-3478767107)" /><text x="2208.000000" y="889.000000" fill="#BAC2DE" class="text-italic fill-N2" style="text-anchor:middle;font-size:16px">LAN</text></g><mask id="d2-3478767107" maskUnits="userSpaceOnUse" x="-89" y="-179" width="2633" height="1246">
 <rect x="-89" y="-179" width="2633" height="1246" fill="white"></rect>
 <rect x="1025.000000" y="-78.000000" width="404" height="70" fill="rgba(0,0,0,0.75)"></rect>
 <rect x="45.597000" y="494.516000" width="58" height="21" fill="rgba(0,0,0,0.75)"></rect>

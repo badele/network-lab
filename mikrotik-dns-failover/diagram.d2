@@ -1,0 +1,31 @@
+direction: right
+vars: {
+  d2-config: {
+    layout-engine: elk
+  }
+}
+
+title: MikroTik DNS failover {
+  shape: text
+  near: top-center
+  style: {
+    font-size: 55
+  }
+}
+
+internet: internet
+internet.shape: cloud
+
+mtr254: "mtr254\ndns1"
+
+client -- mtr254: dns request {style.stroke: green}
+
+mtr254 -- dns2: forward internal request {style.stroke: orange}
+mtr254 -- dns3: forward internal request {style.stroke: orange}
+mtr254 -- dns4: forward internal request {style.stroke: orange}
+
+dns2 -- internet: forward external request {style.stroke: red}
+dns3 -- internet: forward external request {style.stroke: red}
+dns4 -- internet: forward external request {style.stroke: red}
+
+internet -- externaldns

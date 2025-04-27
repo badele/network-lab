@@ -9,6 +9,11 @@ help:
 check-config:
   @test -f lab.clab.yml || (echo "lab.clab.yml not found" ; exit 1)
 
+# build docker image
+[no-cd]
+build imagename="":
+  docker build -t {{imagename}} -f config/{{imagename}}.dockerfile .
+
 # deploy containerlab lab
 [no-cd]
 deploy options="": check-config
@@ -35,7 +40,7 @@ test:
 [no-cd]
 diagram:
   @test -f diagram.d2 || (echo "diagram.d2 not found" ; exit 1)
-  @d2 diagram.d2
+  @d2 --theme 200 diagram.d2
 
 # start edgeshark
 edgeshark-start:

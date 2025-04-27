@@ -1,0 +1,12 @@
+.:53 {
+    forward . 9.9.9.9
+    log
+    errors
+}
+
+lab.local:53 {
+    file /etc/coredns/lab.local.zone
+    log
+    errors
+}
+
